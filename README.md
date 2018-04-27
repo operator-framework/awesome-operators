@@ -1,3 +1,5 @@
+This project is a component of the [Operator Framework](https://github.com/operator-framework), an open source toolkit to manage Kubernetes native applications, called Operators, in an effective, automated, and scalable way. Read more in the [introduction blog post](https://coreos.com/blog/introducing-operator-framework).
+
 # Awesome Operators in the Wild 
 
 A resource tracking a number of Operators using Kubernetes Third-Party Resources, Custom Resource Definitions, or the API Server Aggregation created by others from our awesome Kubernetes community.
