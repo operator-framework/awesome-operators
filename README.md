@@ -10,6 +10,7 @@ If you want to start building an Operator, you should definitely look into the [
 |----------|-------------|-------------|
 | Rook | [rook/rook](https://github.com/rook/rook/tree/master/cluster/examples/kubernetes) |  File, Block, and Object Storage Services for your Cloud-Native Environment |
 | ElasticSearch | [upmc-enterprises/elasticsearch-operator](https://github.com/upmc-enterprises/elasticsearch-operator) | Manages one or more elastic search clusters on Kubenetes. |
+| ElasticSearch #2 | [jetstack/navigator](https://github.com/jetstack/navigator) | Create, scale and upgrade multi-AZ Elasticsearch clusters on Kubernetes |
 | etcd | [coreos/etcd-operator](https://github.com/coreos/etcd-operator) | Manages etcd k/v database clusters on Kubenetes. |
 | Prometheus | [coreos/prometheus-operator](https://github.com/coreos/prometheus-operator) | Monitor Kubenertes and external resources with Prometheus. |
 | Icinga2 operator | [appscode/searchlight](https://github.com/appscode/searchlight) | Alerts for Kubernetes |
@@ -32,6 +33,7 @@ If you want to start building an Operator, you should definitely look into the [
 | MySQL #2 | [oracle/mysql-operator](https://github.com/oracle/mysql-operator) | Create, operate and scale self-healing MySQL clusters in Kubernetes |
 | Cassandra #1 | [instaclustr/cassandra-operator](https://github.com/instaclustr/cassandra-operator) | Kubernetes operator for Apache Cassandra. |
 | Cassandra #2 | [vgkowski/cassandra-operator](https://github.com/vgkowski/cassandra-operator) | kubernetes operator for cassandra clusters automation. |
+| Cassandra #3 | [jetstack/navigator](https://github.com/jetstack/navigator) | Create and scale multi-AZ Casssandra clusters on Kubernetes |
 | KubeDB | [kubedb/operator](https://github.com/kubedb/operator) | KubeDB Operator |
 | Consul | [python/consul-operator](https://github.com/python/consul-operator) | A kubernetes operator for consul. |
 | ArangoDB | [arangodb/kube-arangodb](https://github.com/arangodb/kube-arangodb) | ArangoDB Kubernetes Operator - Start ArangoDB on Kubernetes in 5min. |
