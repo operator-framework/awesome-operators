@@ -44,3 +44,4 @@ If you want to start building an Operator, you should definitely look into the [
 | Spark | [GoogleCloudPlatform/spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) | Kubernetes CRD operator for specifying and running Apache Spark applications idiomatically on Kubernetes. |
 | Vault | [coreos/vault-operator](https://github.com/coreos/vault-operator) | Run and manage Vault on Kubernetes simply and securely. |
 | Kanister | [kanisterio/kanister](https://github.com/kanisterio/kanister) | An extensible framework for application-level data management on Kubernetes. |
+| Envoy | [solo-io/envoy-operator](https://github.com/solo-io/envoy-operator)| Run and manage Envoy on Kubernetes simply and securely. |
