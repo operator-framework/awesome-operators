@@ -15,7 +15,8 @@ If you want to start building an Operator, you should definitely look into the [
 | Icinga2 operator | [appscode/searchlight](https://github.com/appscode/searchlight) | Alerts for Kubernetes |
 | OpenStack | [sapcc/kubernetes-operators](https://github.com/sapcc/kubernetes-operators/tree/master/openstack-operator) | SAP OpenStack operator creates various resources in OpenStack.
 | KubeVirt | [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) | Kubernetes Virtualization Operator with API and runtime in order to define and manage virtual machines. |
-| Kafka | [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator) | A Kafka Operator for Kubernetes |
+| Kafka #1 | [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator) | A Kafka Operator for Kubernetes |
+| Kafka #2 | [strimzi/strimzi](https://github.com/strimzi/strimzi)| Operator for running Kafka and Kafka Connect on Kubernetes and OpenShift |
 | PostgreSQL #1 | [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) | PostgreSQL Operator Creates/Configures/Manages PostgreSQL Clusters on Kubernetes |
 | PostgreSQL #2 | [zalando-incubator/postgres-operator](https://github.com/zalando-incubator/postgres-operator) | Create and manage PostgreSQL HA clusters on Kubernetes using [Patroni](https://github.com/zalando/patroni) |
 | Mongo | [kbst/mongodb](https://github.com/kbst/mongodb) | MongoDB Operator for Kubernetes |
@@ -46,5 +47,10 @@ If you want to start building an Operator, you should definitely look into the [
 | Vault | [coreos/vault-operator](https://github.com/coreos/vault-operator) | Run and manage Vault on Kubernetes simply and securely. |
 | Kanister | [kanisterio/kanister](https://github.com/kanisterio/kanister) | An extensible framework for application-level data management on Kubernetes. |
 | Ark | [heptio/ark](https://github.com/heptio/ark) | Manages the backup and restoration of cluster components (pv,pvc,deployments, etc.) to aid in disaster recovery |
+| PVC | [banzaicloud/pvc-operator](https://github.com/banzaicloud/pvc-operator) | This operator helps to use Kubernetes Persistent Volumes easier on cloud providers by dynamically creating the required accounts, classes and more. |
+| WildFly | [banzaicloud/wildfly-operator](https://github.com/banzaicloud/wildfly-operator) | Wildfly Operator let's you describe and deploy JEE application on Wildfly server by creating a CRD in Kubernetes. |
+| Infinispan | [banzaicloud/infinispan-operator](https://github.com/banzaicloud/infinispan-operator) | This operator deploys and runs an Infinispan cache cluster . |
+| Prometheus Jmx Exporter | [banzaicloud/prometheus-jmx-exporter-operator](https://github.com/banzaicloud/prometheus-jmx-exporter-operator) | This operator using Jmx Exporter enables Java processes running ok Kubernetes Pods to expose metrics collected form mBeans via JMX to Prometheus. |
 | Envoy | [solo-io/envoy-operator](https://github.com/solo-io/envoy-operator)| Run and manage Envoy on Kubernetes simply and securely. |
 | CloudFormation | [linki/cloudformation-operator](https://github.com/linki/cloudformation-operator)| Run and manage CloudFormation stacks. Manage AWS resources from kubernetes. |
+
