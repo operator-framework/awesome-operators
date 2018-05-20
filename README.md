@@ -46,6 +46,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Spark | [GoogleCloudPlatform/spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) | Kubernetes CRD operator for specifying and running Apache Spark applications idiomatically on Kubernetes. |
 | Vault | [coreos/vault-operator](https://github.com/coreos/vault-operator) | Run and manage Vault on Kubernetes simply and securely. |
 | Kanister | [kanisterio/kanister](https://github.com/kanisterio/kanister) | An extensible framework for application-level data management on Kubernetes. |
+| Ark | [heptio/ark](https://github.com/heptio/ark) | Manages the backup and restoration of cluster components (pv,pvc,deployments, etc.) to aid in disaster recovery |
 | PVC | [banzaicloud/pvc-operator](https://github.com/banzaicloud/pvc-operator) | This operator helps to use Kubernetes Persistent Volumes easier on cloud providers by dynamically creating the required accounts, classes and more. |
 | WildFly | [banzaicloud/wildfly-operator](https://github.com/banzaicloud/wildfly-operator) | Wildfly Operator let's you describe and deploy JEE application on Wildfly server by creating a CRD in Kubernetes. |
 | Infinispan | [banzaicloud/infinispan-operator](https://github.com/banzaicloud/infinispan-operator) | This operator deploys and runs an Infinispan cache cluster . |
