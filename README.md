@@ -56,3 +56,4 @@ If you want to start building an Operator, you should definitely look into the [
 | Envoy | [solo-io/envoy-operator](https://github.com/solo-io/envoy-operator)| Run and manage Envoy on Kubernetes simply and securely. |
 | CloudFormation | [linki/cloudformation-operator](https://github.com/linki/cloudformation-operator)| Run and manage CloudFormation stacks. Manage AWS resources from kubernetes. |
 | ZooKeeper | [Nuance-Mobility/zookeeper-operator](https://github.com/Nuance-Mobility/zookeeper-operator) | A ZooKeeper 3.5.x Operator for Kubernetes |
+| AWS | [giantswarm/aws-operator](https://github.com/giantswarm/aws-operator) | Manages Kubernetes clusters running on AWS |
