@@ -32,6 +32,7 @@ If you want to start building an Operator, you should definitely look into the [
 | NATS | [nats-io/nats-operator](https://github.com/nats-io/nats-operator) | This operator manages NATS clusters atop Kubernetes, automating their creation and administration. |
 | MySQL #1 | [grtl/mysql-operator](https://github.com/grtl/mysql-operator) | Kubernetes Custom Resource for MySQL. |
 | MySQL #2 | [oracle/mysql-operator](https://github.com/oracle/mysql-operator) | Create, operate and scale self-healing MySQL clusters in Kubernetes |
+| MySQL #3 | [presslabs/mysql-operator] (https://github.com/presslabs/mysql-operator) | Bulletproof MySQL on Kubernetes |
 | Cassandra #1 | [instaclustr/cassandra-operator](https://github.com/instaclustr/cassandra-operator) | Kubernetes operator for Apache Cassandra. |
 | Cassandra #2 | [vgkowski/cassandra-operator](https://github.com/vgkowski/cassandra-operator) | kubernetes operator for cassandra clusters automation. |
 | KubeDB | [kubedb/operator](https://github.com/kubedb/operator) | KubeDB Operator |
@@ -57,3 +58,4 @@ If you want to start building an Operator, you should definitely look into the [
 | CloudFormation | [linki/cloudformation-operator](https://github.com/linki/cloudformation-operator)| Run and manage CloudFormation stacks. Manage AWS resources from kubernetes. |
 | ZooKeeper | [Nuance-Mobility/zookeeper-operator](https://github.com/Nuance-Mobility/zookeeper-operator) | A ZooKeeper 3.5.x Operator for Kubernetes |
 | Unifiedpush | [aerogear/ups-config-operator](https://github.com/aerogear/ups-config-operator) | Manage your Unifiedpush variants from Kubernetes / Openshift |
+| RethinkDB | [jmckind/rethinkdb-operator](https://github.com/jmckind/rethinkdb-operator) | A Kubernetes operator to manage RethinkDB instances. |
