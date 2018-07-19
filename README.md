@@ -9,9 +9,9 @@ If you want to start building an Operator, you should definitely look into the [
 | App Name | Github | Description |
 |----------|-------------|-------------|
 | Rook | [rook/rook](https://github.com/rook/rook/tree/master/cluster/examples/kubernetes) |  File, Block, and Object Storage Services for your Cloud-Native Environment |
-| ElasticSearch | [upmc-enterprises/elasticsearch-operator](https://github.com/upmc-enterprises/elasticsearch-operator) | Manages one or more elastic search clusters on Kubenetes. |
-| etcd | [coreos/etcd-operator](https://github.com/coreos/etcd-operator) | Manages etcd k/v database clusters on Kubenetes. |
-| Prometheus | [coreos/prometheus-operator](https://github.com/coreos/prometheus-operator) | Monitor Kubenertes and external resources with Prometheus. |
+| ElasticSearch | [upmc-enterprises/elasticsearch-operator](https://github.com/upmc-enterprises/elasticsearch-operator) | Manages one or more elastic search clusters on Kubernetes. |
+| etcd | [coreos/etcd-operator](https://github.com/coreos/etcd-operator) | Manages etcd k/v database clusters on Kubernetes. |
+| Prometheus | [coreos/prometheus-operator](https://github.com/coreos/prometheus-operator) | Monitor Kubernetes and external resources with Prometheus. |
 | Icinga2 operator | [appscode/searchlight](https://github.com/appscode/searchlight) | Alerts for Kubernetes |
 | OpenStack | [sapcc/kubernetes-operators](https://github.com/sapcc/kubernetes-operators/tree/master/openstack-operator) | SAP OpenStack operator creates various resources in OpenStack.
 | KubeVirt | [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) | Kubernetes Virtualization Operator with API and runtime in order to define and manage virtual machines. |
@@ -36,10 +36,10 @@ If you want to start building an Operator, you should definitely look into the [
 | Cassandra #1 | [instaclustr/cassandra-operator](https://github.com/instaclustr/cassandra-operator) | Kubernetes operator for Apache Cassandra. |
 | Cassandra #2 | [vgkowski/cassandra-operator](https://github.com/vgkowski/cassandra-operator) | kubernetes operator for cassandra clusters automation. |
 | KubeDB | [kubedb/operator](https://github.com/kubedb/operator) | KubeDB Operator |
-| Consul | [python/consul-operator](https://github.com/python/consul-operator) | A kubernetes operator for consul. |
+| Consul | [python/consul-operator](https://github.com/python/consul-operator) | A Kubernetes operator for consul. |
 | ArangoDB | [arangodb/kube-arangodb](https://github.com/arangodb/kube-arangodb) | ArangoDB Kubernetes Operator - Start ArangoDB on Kubernetes in 5min. |
 | RDS |  [MYOB-Technology/ops-kube-db-operator](https://github.com/MYOB-Technology/ops-kube-db-operator) | Operator to control RDS DBs in AWS. |
-| CouchDB | [nicolai86/couchdb-operator](https://github.com/nicolai86/couchdb-operator) | prototype kubernetes operator for couchDB. |
+| CouchDB | [nicolai86/couchdb-operator](https://github.com/nicolai86/couchdb-operator) | Prototype Kubernetes operator for couchDB. |
 | Zeebe | [zeebe-io/zeebe-operator](https://github.com/zeebe-io/zeebe-operator) | Kubernetes Operator for Zeebe - Let me manage your https://zeebe.io cluster on K8s. |
 | InfluxDB | [gianarb/influxdb-operator](https://github.com/gianarb/influxdb-operator) | The Kubernetes operator for InfluxDB and the TICK stack. |
 | Aerospike | [travelaudience/aerospike-operator](https://github.com/travelaudience/aerospike-operator) | Manages Aerospike clusters atop Kubernetes, automating their creation and administration. |
@@ -55,7 +55,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Infinispan | [banzaicloud/infinispan-operator](https://github.com/banzaicloud/infinispan-operator) | This operator deploys and runs an Infinispan cache cluster . |
 | Prometheus Jmx Exporter | [banzaicloud/prometheus-jmx-exporter-operator](https://github.com/banzaicloud/prometheus-jmx-exporter-operator) | This operator using Jmx Exporter enables Java processes running ok Kubernetes Pods to expose metrics collected form mBeans via JMX to Prometheus. |
 | Envoy | [solo-io/envoy-operator](https://github.com/solo-io/envoy-operator)| Run and manage Envoy on Kubernetes simply and securely. |
-| CloudFormation | [linki/cloudformation-operator](https://github.com/linki/cloudformation-operator)| Run and manage CloudFormation stacks. Manage AWS resources from kubernetes. |
+| CloudFormation | [linki/cloudformation-operator](https://github.com/linki/cloudformation-operator)| Run and manage CloudFormation stacks. Manage AWS resources from Kubernetes. |
 | ZooKeeper | [Nuance-Mobility/zookeeper-operator](https://github.com/Nuance-Mobility/zookeeper-operator) | A ZooKeeper 3.5.x Operator for Kubernetes |
 | AWS | [giantswarm/aws-operator](https://github.com/giantswarm/aws-operator) | Manages Kubernetes clusters running on AWS |
 | Unifiedpush | [aerogear/ups-config-operator](https://github.com/aerogear/ups-config-operator) | Manage your Unifiedpush variants from Kubernetes / Openshift |
