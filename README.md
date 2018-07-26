@@ -19,16 +19,16 @@ If you want to start building an Operator, you should definitely look into the [
 | Kafka #2 | [strimzi/strimzi](https://github.com/strimzi/strimzi)| Operator for running Kafka and Kafka Connect on Kubernetes and OpenShift |
 | PostgreSQL #1 | [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) | PostgreSQL Operator Creates/Configures/Manages PostgreSQL Clusters on Kubernetes |
 | PostgreSQL #2 | [zalando-incubator/postgres-operator](https://github.com/zalando-incubator/postgres-operator) | Create and manage PostgreSQL HA clusters on Kubernetes using [Patroni](https://github.com/zalando/patroni) |
-| Mongo #1| [kbst/mongodb](https://github.com/kbst/mongodb) | MongoDB Operator for Kubernetes |
-| Mongo #2|[Ultimaker/k8s-mongo-operator](https://github.com/Ultimaker/k8s-mongo-operator) | MongoDB Operator for MongoDB Replica Sets and Backups |
-| Kong | [upmc-enterprises/kong-operator](https://github.com/upmc-enterprises/kong-operator) | Manages Kong clusters on Kubernetes. |
-| Tensorflow | [kubeflow/tf-operator](https://github.com/kubeflow/tf-operator) | Tools for ML/Tensorflow on Kubernetes. |
-| WebLogic | [oracle/weblogic-kubernetes-operator](https://github.com/oracle/weblogic-kubernetes-operator) | Oracle Weblogic Server Kubernetes Operator |
-| Redis #1 | [spotahome/redis-operator](https://github.com/spotahome/redis-operator) | Redis Operator creates/configures/manages redis clusters atop Kubernetes. |
-| Redis #2 | [jw-s/redis-operator](https://github.com/jw-s/redis-operator) | Redis operator for Kubernetes |
-| Habitat | [habitat-sh/habitat-operator](https://github.com/habitat-sh/habitat-operator) | A Kubernetes operator for Habitat services. |
-| Tidb | [aliyx/tidb-operator](https://github.com/aliyx/tidb-operator) | Tidb-operator creates/configures/manages tidb clusters atop Kubernetes. |
-| Memcached | [ianlewis/memcached-operator](https://github.com/ianlewis/memcached-operator) | A Kubernetes operator for memcached |
+| Mongo #1| [kbst/mongodb](https://github.com/kbst/mongodb) | MongoDB is a free and open-source cross-platform document-oriented database program. This is a MongoDB Operator for Kubernetes |
+| Mongo #2|[Ultimaker/k8s-mongo-operator](https://github.com/Ultimaker/k8s-mongo-operator) | MongoDB is a free and open-source cross-platform document-oriented database program. This operator for MongoDB is for MongoDB Replica Sets and Backups |
+| Kong | [upmc-enterprises/kong-operator](https://github.com/upmc-enterprises/kong-operator) | Kong is a cloud-native, fast, scalable, and distributed Microservice Abstraction Layer (also known as an API Gateway, API Middleware or in some cases Service Mesh). This operator manages Kong clusters on Kubernetes. |
+| Tensorflow | [kubeflow/tf-operator](https://github.com/kubeflow/tf-operator) | Tensorflow is an open source machine learning framework. This operator manages tensorflow and other tools for Machine Learning on Kubernetes. |
+| WebLogic | [oracle/weblogic-kubernetes-operator](https://github.com/oracle/weblogic-kubernetes-operator) |  Weblogic is an pplication server for building and deploying enterprise Java EE applications. This operator manage Oracle Weblogic Server in Kubernetes |
+| Redis #1 | [spotahome/redis-operator](https://github.com/spotahome/redis-operator) | Redis is an open source, in-memory data structure store, used as a database, cache and message broker. Redis Operator creates/configures/manages Redis clusters atop Kubernetes. |
+| Redis #2 | [jw-s/redis-operator](https://github.com/jw-s/redis-operator) | Redis is an open source, in-memory data structure store, used as a database, cache and message broker. Redis Operator creates/configures/manages Redis clusters atop Kubernetes. |
+| Habitat | [habitat-sh/habitat-operator](https://github.com/habitat-sh/habitat-operator) | Habitat is open source software that creates platform-independent build artifacts and provides built-in deployment and management capabilities. This operator manages Habitat services. |
+| Tidb | [aliyx/tidb-operator](https://github.com/aliyx/tidb-operator) | TiDB is an open-source distributed scalable Hybrid Transactional and Analytical Processing (HTAP) database. Tidb-operator creates/configures/manages tidb clusters atop Kubernetes. |
+| Memcached | [ianlewis/memcached-operator](https://github.com/ianlewis/memcached-operator) | Memcached is an open source, high-performance, distributed memory object caching system. This is a Kubernetes operator for memcached |
 | MXNet | [deepinsight/mxnet-operator](https://github.com/deepinsight/mxnet-operator ) | Tools for ML/MXNet on Kubernetes. |
 | NATS | [nats-io/nats-operator](https://github.com/nats-io/nats-operator) | This operator manages NATS clusters atop Kubernetes, automating their creation and administration. |
 | MySQL #1 | [grtl/mysql-operator](https://github.com/grtl/mysql-operator) | Kubernetes Custom Resource for MySQL. |
