@@ -55,6 +55,7 @@ If you want to start building an Operator, you should definitely look into the [
 | WildFly | [banzaicloud/wildfly-operator](https://github.com/banzaicloud/wildfly-operator) | Wildfly Operator let's you describe and deploy JEE application on Wildfly server by creating a CRD in Kubernetes. |
 | Infinispan | [banzaicloud/infinispan-operator](https://github.com/banzaicloud/infinispan-operator) | This operator deploys and runs an Infinispan cache cluster . |
 | Prometheus Jmx Exporter | [banzaicloud/prometheus-jmx-exporter-operator](https://github.com/banzaicloud/prometheus-jmx-exporter-operator) | This operator using Jmx Exporter enables Java processes running ok Kubernetes Pods to expose metrics collected form mBeans via JMX to Prometheus. |
+| HPA Operator | [banzaicloud/hpa-operator](https://github.com/banzaicloud/hpa-operator) | Horizontal Pod Autoscaler operator for Kubernetes. Annotate, and let HPA operator do the rest. |
 | Envoy | [solo-io/envoy-operator](https://github.com/solo-io/envoy-operator)| Run and manage Envoy on Kubernetes simply and securely. |
 | CloudFormation | [linki/cloudformation-operator](https://github.com/linki/cloudformation-operator)| Run and manage CloudFormation stacks. Manage AWS resources from Kubernetes. |
 | ZooKeeper | [Nuance-Mobility/zookeeper-operator](https://github.com/Nuance-Mobility/zookeeper-operator) | A ZooKeeper 3.5.x Operator for Kubernetes |
