@@ -45,7 +45,8 @@ If you want to start building an Operator, you should definitely look into the [
 | InfluxDB | [gianarb/influxdb-operator](https://github.com/gianarb/influxdb-operator) | The Kubernetes operator for InfluxDB and the TICK stack. |
 | Aerospike | [travelaudience/aerospike-operator](https://github.com/travelaudience/aerospike-operator) | Manages Aerospike clusters atop Kubernetes, automating their creation and administration. |
 | DynamoDB | [microdc/k8s-dynamodb-operator](https://github.com/microdc/k8s-dynamodb-operator) | A Kubernetes DynamoDB operator |
-| Spark | [GoogleCloudPlatform/spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) | Kubernetes CRD operator for specifying and running Apache Spark applications idiomatically on Kubernetes. |
+| Spark #1 | [GoogleCloudPlatform/spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) | Kubernetes CRD operator for specifying and running Apache Spark applications idiomatically on Kubernetes. |
+| Spark #2 | [jvm-operators/spark-operator](https://github.com/jvm-operators/spark-operator) | ConfigMap-based operator for deploying ephemeral Apache Spark clusters and intelligent applications that spawn their own Spark clusters natively on Kubernetes and OpenShift. |
 | Vault #1 | [coreos/vault-operator](https://github.com/coreos/vault-operator) | Run and manage Vault on Kubernetes simply and securely. |
 | Vault #2  | [banzaicloud/bank-vaults](https://github.com/banzaicloud/bank-vaults)| A feature rich HA Vault operator with TLS, external API based re/configuration, several/automatic unseal options and more.|
 | Kanister | [kanisterio/kanister](https://github.com/kanisterio/kanister) | An extensible framework for application-level data management on Kubernetes. |
