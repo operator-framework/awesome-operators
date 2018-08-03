@@ -62,3 +62,4 @@ If you want to start building an Operator, you should definitely look into the [
 | Unifiedpush | [aerogear/ups-config-operator](https://github.com/aerogear/ups-config-operator) | Manage your Unifiedpush variants from Kubernetes / Openshift |
 | RethinkDB | [jmckind/rethinkdb-operator](https://github.com/jmckind/rethinkdb-operator) | A Kubernetes operator to manage RethinkDB instances. |
 | Android SDK | [aerogear/android-sdk-operator](https://github.com/aerogear/android-sdk-operator) | A Kubernetes operator to manage android sdk packages syncronization in a persistent volume. |
+| RBAC Manager | [reactiveops/rbac-manager](https://github.com/reactiveops/rbac-manager) | This operator simplifies the management of RBAC Role Bindings in Kubernetes. |
