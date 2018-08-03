@@ -9,10 +9,10 @@ If you want to start building an Operator, you should definitely look into the [
 | App Name | Github | Description |
 |----------|-------------|-------------|
 | Rook | [rook/rook](https://github.com/rook/rook/tree/master/cluster/examples/kubernetes) |  File, Block, and Object Storage Services for your Cloud-Native Environment |
-| ElasticSearch | [upmc-enterprises/elasticsearch-operator](https://github.com/upmc-enterprises/elasticsearch-operator) | Manages one or more elastic search clusters on Kubernetes. |
-| etcd | [coreos/etcd-operator](https://github.com/coreos/etcd-operator) | Manages etcd k/v database clusters on Kubernetes. |
-| Prometheus | [coreos/prometheus-operator](https://github.com/coreos/prometheus-operator) | Monitor Kubernetes and external resources with Prometheus. |
-| Icinga2 operator | [appscode/searchlight](https://github.com/appscode/searchlight) | Alerts for Kubernetes |
+| ElasticSearch | [upmc-enterprises/elasticsearch-operator](https://github.com/upmc-enterprises/elasticsearch-operator) | Elasticsearch is a distributed, RESTful search and analytics engine. This operator manages one or more elastic search clusters on Kubernetes. |
+| etcd | [coreos/etcd-operator](https://github.com/coreos/etcd-operator) | etcd is a distributed key-value (k/v) store. This operator manages etcd k/v database clusters on Kubernetes. |
+| Prometheus | [coreos/prometheus-operator](https://github.com/coreos/prometheus-operator) | Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts if some condition is observed to be true. The Prometheus Operator for Kubernetes provides easy monitoring definitions for Kubernetes services and deployment and management of Prometheus instances. |
+| Icinga2 operator | [appscode/searchlight](https://github.com/appscode/searchlight) | Icinga is an open source computer system and network monitoring application. This operator provide alerts for Kubernetes |
 | OpenStack | [sapcc/kubernetes-operators](https://github.com/sapcc/kubernetes-operators/tree/master/openstack-operator) | SAP OpenStack operator creates various resources in OpenStack.
 | KubeVirt | [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) | Kubernetes Virtualization Operator with API and runtime in order to define and manage virtual machines. |
 | Kafka #1 | [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator) | A Kafka Operator for Kubernetes |
@@ -29,13 +29,13 @@ If you want to start building an Operator, you should definitely look into the [
 | Habitat | [habitat-sh/habitat-operator](https://github.com/habitat-sh/habitat-operator) | A Kubernetes operator for Habitat services. |
 | Tidb | [aliyx/tidb-operator](https://github.com/aliyx/tidb-operator) | Tidb-operator creates/configures/manages tidb clusters atop Kubernetes. |
 | Memcached | [ianlewis/memcached-operator](https://github.com/ianlewis/memcached-operator) | A Kubernetes operator for memcached |
-| MXNet | [deepinsight/mxnet-operator](https://github.com/deepinsight/mxnet-operator ) | Tools for ML/MXNet on Kubernetes. |
-| NATS | [nats-io/nats-operator](https://github.com/nats-io/nats-operator) | This operator manages NATS clusters atop Kubernetes, automating their creation and administration. |
-| MySQL #1 | [grtl/mysql-operator](https://github.com/grtl/mysql-operator) | Kubernetes Custom Resource for MySQL. |
-| MySQL #2 | [oracle/mysql-operator](https://github.com/oracle/mysql-operator) | Create, operate and scale self-healing MySQL clusters in Kubernetes |
-| MySQL #3 | [presslabs/mysql-operator] (https://github.com/presslabs/mysql-operator) | Bulletproof MySQL on Kubernetes |
-| Cassandra #1 | [instaclustr/cassandra-operator](https://github.com/instaclustr/cassandra-operator) | Kubernetes operator for Apache Cassandra. |
-| Cassandra #2 | [vgkowski/cassandra-operator](https://github.com/vgkowski/cassandra-operator) | kubernetes operator for cassandra clusters automation. |
+| MXNet | [deepinsight/mxnet-operator](https://github.com/deepinsight/mxnet-operator ) | Apache MXNet is a modern open-source deep learning framework used to train, and deploy deep neural networks. This operator manages the tools for ML/MXNet on Kubernetes. |
+| NATS | [nats-io/nats-operator](https://github.com/nats-io/nats-operator) | NATS is an open-source, high-performance, lightweight and secure cloud native messaging system. This operator manages NATS clusters atop Kubernetes, automating their creation and administration. |
+| MySQL #1 | [grtl/mysql-operator](https://github.com/grtl/mysql-operator) | MySQL is an Open Source SQL database management system. This creates a Kubernetes Custom Resource for MySQL. |
+| MySQL #2 | [oracle/mysql-operator](https://github.com/oracle/mysql-operator) | MySQL is an Open Source SQL database management system. This operator creates, operates, and scales self-healing MySQL clusters in Kubernetes |
+| MySQL #3 | [presslabs/mysql-operator] (https://github.com/presslabs/mysql-operator) | MySQL is an Open Source SQL database management system. This operator manages all the necessary resources for deploying and managing a highly available MySQL cluster. It provides efortless backups, while keeping the cluster highly-available. |
+| Cassandra #1 | [instaclustr/cassandra-operator](https://github.com/instaclustr/cassandra-operator) | Cassandra is a free and open-source distributed wide column store NoSQL database management system designed to handle large amounts of data. This is a Kubernetes operator for Apache Cassandra. |
+| Cassandra #2 | [vgkowski/cassandra-operator](https://github.com/vgkowski/cassandra-operator) | Cassandra is a free and open-source distributed wide column store NoSQL database management system designed to handle large amounts of data. This ia a Kubernetes operator for Cassandra cluster automation. |
 | KubeDB | [kubedb/operator](https://github.com/kubedb/operator) | KubeDB Operator |
 | Consul | [python/consul-operator](https://github.com/python/consul-operator) | A Kubernetes operator for consul. |
 | ArangoDB | [arangodb/kube-arangodb](https://github.com/arangodb/kube-arangodb) | ArangoDB Kubernetes Operator - Start ArangoDB on Kubernetes in 5min. |
@@ -62,3 +62,4 @@ If you want to start building an Operator, you should definitely look into the [
 | Unifiedpush | [aerogear/ups-config-operator](https://github.com/aerogear/ups-config-operator) | UnifiedPush Server is a server that allows sending push notifications to different (mobile) platforms. Using this operator manage your Unifiedpush variants from Kubernetes and Openshift |
 | RethinkDB | [jmckind/rethinkdb-operator](https://github.com/jmckind/rethinkdb-operator) | RethinkDB is a free and open-source, distributed document-oriented database. This is a Kubernetes operator to manage RethinkDB instances. |
 | Android SDK | [aerogear/android-sdk-operator](https://github.com/aerogear/android-sdk-operator) | A Kubernetes operator to manage android sdk packages syncronization in a persistent volume. |
+| RBAC Manager | [reactiveops/rbac-manager](https://github.com/reactiveops/rbac-manager) | This operator simplifies the management of RBAC Role Bindings in Kubernetes. |
