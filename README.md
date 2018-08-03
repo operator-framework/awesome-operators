@@ -9,16 +9,16 @@ If you want to start building an Operator, you should definitely look into the [
 | App Name | Github | Description |
 |----------|-------------|-------------|
 | Rook | [rook/rook](https://github.com/rook/rook/tree/master/cluster/examples/kubernetes) |  File, Block, and Object Storage Services for your Cloud-Native Environment |
-| ElasticSearch | [upmc-enterprises/elasticsearch-operator](https://github.com/upmc-enterprises/elasticsearch-operator) | Manages one or more elastic search clusters on Kubernetes. |
-| etcd | [coreos/etcd-operator](https://github.com/coreos/etcd-operator) | Manages etcd k/v database clusters on Kubernetes. |
-| Prometheus | [coreos/prometheus-operator](https://github.com/coreos/prometheus-operator) | Monitor Kubernetes and external resources with Prometheus. |
-| Icinga2 operator | [appscode/searchlight](https://github.com/appscode/searchlight) | Alerts for Kubernetes |
+| ElasticSearch | [upmc-enterprises/elasticsearch-operator](https://github.com/upmc-enterprises/elasticsearch-operator) | Elasticsearch is a distributed, RESTful search and analytics engine. This operator manages one or more elastic search clusters on Kubernetes. |
+| etcd | [coreos/etcd-operator](https://github.com/coreos/etcd-operator) | etcd is a distributed key-value (k/v) store. This operator manages etcd k/v database clusters on Kubernetes. |
+| Prometheus | [coreos/prometheus-operator](https://github.com/coreos/prometheus-operator) | Prometheus, a Cloud Native Computing Foundation project, is a systems and service monitoring system. It collects metrics from configured targets at given intervals, evaluates rule expressions, displays the results, and can trigger alerts if some condition is observed to be true. The Prometheus Operator for Kubernetes provides easy monitoring definitions for Kubernetes services and deployment and management of Prometheus instances. |
+| Icinga2 operator | [appscode/searchlight](https://github.com/appscode/searchlight) | Icinga is an open source computer system and network monitoring application. This operator provide alerts for Kubernetes |
 | OpenStack | [sapcc/kubernetes-operators](https://github.com/sapcc/kubernetes-operators/tree/master/openstack-operator) | SAP OpenStack operator creates various resources in OpenStack.
 | KubeVirt | [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) | Kubernetes Virtualization Operator with API and runtime in order to define and manage virtual machines. |
-| Kafka #1 | [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator) | A Kafka Operator for Kubernetes |
-| Kafka #2 | [strimzi/strimzi](https://github.com/strimzi/strimzi)| Operator for running Kafka and Kafka Connect on Kubernetes and OpenShift |
-| PostgreSQL #1 | [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) | PostgreSQL Operator Creates/Configures/Manages PostgreSQL Clusters on Kubernetes |
-| PostgreSQL #2 | [zalando-incubator/postgres-operator](https://github.com/zalando-incubator/postgres-operator) | Create and manage PostgreSQL HA clusters on Kubernetes using [Patroni](https://github.com/zalando/patroni) |
+| Kafka #1 | [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator) | Kafka is used for building real-time data pipelines and streaming apps. This Operator manages Kafka for Kubernetes |
+| Kafka #2 | [strimzi/strimzi](https://github.com/strimzi/strimzi)| Kafka is used for building real-time data pipelines and streaming apps. This is an Operator for running Kafka and Kafka Connect on Kubernetes and OpenShift |
+| PostgreSQL #1 | [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) | Postgres is an object-relational database management system. PostgreSQL Operator Creates/Configures/Manages PostgreSQL Clusters on Kubernetes |
+| PostgreSQL #2 | [zalando-incubator/postgres-operator](https://github.com/zalando-incubator/postgres-operator) | Postgres is an object-relational database management system. This operator creates and manages PostgreSQL HA clusters on Kubernetes using [Patroni](https://github.com/zalando/patroni) |
 | Mongo #1| [kbst/mongodb](https://github.com/kbst/mongodb) | MongoDB Operator for Kubernetes |
 | Mongo #2|[Ultimaker/k8s-mongo-operator](https://github.com/Ultimaker/k8s-mongo-operator) | MongoDB Operator for MongoDB Replica Sets and Backups |
 | Kong | [upmc-enterprises/kong-operator](https://github.com/upmc-enterprises/kong-operator) | Manages Kong clusters on Kubernetes. |
