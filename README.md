@@ -28,7 +28,8 @@ If you want to start building an Operator, you should definitely look into the [
 | Redis #1 | [spotahome/redis-operator](https://github.com/spotahome/redis-operator) | Redis Operator creates/configures/manages redis clusters atop Kubernetes. |
 | Redis #2 | [jw-s/redis-operator](https://github.com/jw-s/redis-operator) | Redis operator for Kubernetes |
 | Habitat | [habitat-sh/habitat-operator](https://github.com/habitat-sh/habitat-operator) | A Kubernetes operator for Habitat services. |
-| Tidb | [aliyx/tidb-operator](https://github.com/aliyx/tidb-operator) | Tidb-operator creates/configures/manages tidb clusters atop Kubernetes. |
+| TiDB #1 | [aliyx/tidb-operator](https://github.com/aliyx/tidb-operator) | Tidb-operator creates/configures/manages tidb clusters atop Kubernetes. |
+| TiDB #2 | [pingcap/tidb-operator](https://github.com/pingcap/tidb-operator) | TiDB operator creates and manages TiDB clusters running in Kubernetes. |
 | Memcached | [ianlewis/memcached-operator](https://github.com/ianlewis/memcached-operator) | A Kubernetes operator for memcached |
 | MXNet | [deepinsight/mxnet-operator](https://github.com/deepinsight/mxnet-operator ) | Apache MXNet is a modern open-source deep learning framework used to train, and deploy deep neural networks. This operator manages the tools for ML/MXNet on Kubernetes. |
 | NATS | [nats-io/nats-operator](https://github.com/nats-io/nats-operator) | NATS is an open-source, high-performance, lightweight and secure cloud native messaging system. This operator manages NATS clusters atop Kubernetes, automating their creation and administration. |
