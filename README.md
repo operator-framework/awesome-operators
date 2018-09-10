@@ -68,3 +68,4 @@ If you want to start building an Operator, you should definitely look into the [
 | Android SDK | [aerogear/android-sdk-operator](https://github.com/aerogear/android-sdk-operator) | A Kubernetes operator to manage android sdk packages syncronization in a persistent volume. |
 | RBAC Manager | [reactiveops/rbac-manager](https://github.com/reactiveops/rbac-manager) | This operator simplifies the management of RBAC Role Bindings in Kubernetes. |
 | Quobyte | [Quobyte/Quobyte](https://github.com/quobyte/kubernetes/tree/master/operator) |  [Quobyte’s](https://www.quobyte.com) next-generation file system unifies file, block and object storage for enterprise and scientific applications. |
+| RocketMQ | [huanwei/rocketmq-operator](https://github.com/huanwei/rocketmq-operator) | Create, operate and scale self-healing Rocketmq clusters on Kubernetes. |
