@@ -84,3 +84,5 @@ If you want to start building an Operator, you should definitely look into the [
 | Service level | [slok/service-level-operator](https://github.com/slok/service-level-operator) | Manage application's SLI and SLO's easily with the application lifecycle inside a Kubernetes cluster. |
 | Pravega | [pravega/pravega-operator](https://github.com/pravega/pravega-operator) | Create, operate and scale [Pravega](http://pravega.io/) stream storage clusters on Kubernetes |
 | Gitea | [integr8ly/gitea-operator](https://github.com/integr8ly/gitea-operator) | An Operator that installs [Gitea](https://gitea.io/en-us/) and, optionally on OpenShift, an [oauth proxy](https://github.com/openshift/oauth-proxy) |
+| Wordpress | [presslabs/wordpress-operator](https://github.com/presslabs/wordpress-operator) | Enables managing multiple WordPress installments at scale. |
+| GateKeeper | [replicatedhq/gatekeeper](https://github.com/replicatedhq/gatekeeper) | Manages dynamic Admission Controllers using Open Policy Agent.
