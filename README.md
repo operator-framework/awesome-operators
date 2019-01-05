@@ -86,3 +86,4 @@ If you want to start building an Operator, you should definitely look into the [
 | Gitea | [integr8ly/gitea-operator](https://github.com/integr8ly/gitea-operator) | An Operator that installs [Gitea](https://gitea.io/en-us/) and, optionally on OpenShift, an [oauth proxy](https://github.com/openshift/oauth-proxy) |
 | Wordpress | [presslabs/wordpress-operator](https://github.com/presslabs/wordpress-operator) | Enables managing multiple WordPress installments at scale. |
 | GateKeeper | [replicatedhq/gatekeeper](https://github.com/replicatedhq/gatekeeper) | Manages dynamic Admission Controllers using Open Policy Agent.
+| Percona XtraDB Cluster | [Percona-Lab/percona-xtradb-cluster-operator](https://github.com/Percona-Lab/percona-xtradb-cluster-operator) | A Kubernetes operator for [Percona XtraDB Cluster](https://www.percona.com/software/mysql-database/percona-xtradb-cluster). |
