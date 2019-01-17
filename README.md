@@ -30,6 +30,7 @@ If you want to start building an Operator, you should definitely look into the [
 | etcd | [coreos/etcd-operator](https://github.com/coreos/etcd-operator) | Manages etcd k/v database clusters on Kubernetes. |
 | GateKeeper | [replicatedhq/gatekeeper](https://github.com/replicatedhq/gatekeeper) | Manages dynamic Admission Controllers using Open Policy Agent.
 | Gitea | [integr8ly/gitea-operator](https://github.com/integr8ly/gitea-operator) | An Operator that installs [Gitea](https://gitea.io/en-us/) and, optionally on OpenShift, an [oauth proxy](https://github.com/openshift/oauth-proxy) |
+| GitLab [gitlab-operator](https://gitlab.com/charts/components/gitlab-operator | supports online upgrades |
 | Google Cloud Operator | [paulczar/gcp-cloud-compute-operator](https://github.com/paulczar/gcp-cloud-compute-operator) | Allows the provisioning of Google Cloud resources such as Instances and Images using Kubernetes |
 | Habitat | [habitat-sh/habitat-operator](https://github.com/habitat-sh/habitat-operator) | A Kubernetes operator for Habitat services. |
 | HPA Operator | [banzaicloud/hpa-operator](https://github.com/banzaicloud/hpa-operator) | Horizontal Pod Autoscaler operator for Kubernetes. Annotate, and let HPA operator do the rest. |
