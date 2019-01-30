@@ -21,6 +21,7 @@ If you want to start building an Operator, you should definitely look into the [
 | cert-manager | [jetstack/cert-manager](https://github.com/jetstack/cert-manager) | Automatically provision and manage TLS certificates in Kubernetes |
 | CloudFormation | [linki/cloudformation-operator](https://github.com/linki/cloudformation-operator)| AWS CloudFormation is a service that helps you model and set up your Amazon Web Services resources. Using this operator run and manage CloudFormation stacks and manage AWS resources from Kubernetes. |
 | Consul | [python/consul-operator](https://github.com/python/consul-operator) | A Kubernetes operator for consul. |
+| Couchbase Autonomous Operator | [couchbase/operator](https://access.redhat.com/containers/?tab=overview&platform=openshift#/registry.connect.redhat.com/couchbase/operator) | Automates administrative tasks and operational best practices while maintaining full data platform capabilities from within and across clouds and on-premises deployments. |
 | CouchDB | [nicolai86/couchdb-operator](https://github.com/nicolai86/couchdb-operator) | Prototype Kubernetes operator for couchDB. |
 | Dex | [kubic-project/dex-operator](https://github.com/kubic-project/dex-operator) | A Kubernetes operator for configuring Dex with custom resources  |
 | DynamoDB | [microdc/k8s-dynamodb-operator](https://github.com/microdc/k8s-dynamodb-operator) | Amazon DynamoDB is a fully  proprietary NoSQL database service that supports key-value and document data structures. This is a Kubernetes operator for DynamoDB  |
