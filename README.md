@@ -6,6 +6,14 @@ This list is built by the community. Have you built or are you using an Operator
 
 If you want to start building an Operator, you should definitely look into the [Operator SDK](https://github.com/operator-framework/operator-sdk).
 
+## Operators vs Controllers
+
+Operators are a specific subset of controllers, while controllers normally extend or configure existing resources an operator deploys the underlying resource itself.
+
+See [awesome-controllers](https://https://github.com/moshloop/awesome-controllers)
+
+
+
 | App Name | Github | Description |
 |----------|-------------|-------------|
 | Aerospike | [travelaudience/aerospike-operator](https://github.com/travelaudience/aerospike-operator) | Aerospike is a NoSQL distributed database. This Operator manages Aerospike clusters atop Kubernetes, automating their creation and administration. |
