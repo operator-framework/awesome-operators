@@ -39,6 +39,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Icinga2 operator | [appscode/searchlight](https://github.com/appscode/searchlight) | Alerts for Kubernetes |
 | Infinispan | [banzaicloud/infinispan-operator](https://github.com/banzaicloud/infinispan-operator) |  Infinispan is a distributed in-memory key/value data store. This operator deploys and runs an Infinispan cache cluster. |
 | InfluxDB | [gianarb/influxdb-operator](https://github.com/gianarb/influxdb-operator) | InfluxDB is an open-source time series database. This is the Kubernetes operator for InfluxDB and the TICK stack. |
+| Istio Operator | [banzaicloud/istio-operator](https://github.com/banzaicloud/istio-operator) | An operator that manages Istio deployments on Kubernetes. |
 | Jaeger | [jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator) | Jaeger Operator for Kubernetes. |
 | Jenkins | [virtusLab/jenkins-operator](https://github.com/VirtusLab/jenkins-operator) | Kubernetes native Jenkins operator. |
 | Kafka #1 | [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator) | A Kafka Operator for Kubernetes |
