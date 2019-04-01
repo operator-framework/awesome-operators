@@ -100,3 +100,4 @@ If you want to start building an Operator, you should definitely look into the [
 | Zeebe | [zeebe-io/zeebe-operator](https://github.com/zeebe-io/zeebe-operator) | Kubernetes Operator for Zeebe - Let me manage your https://zeebe.io cluster on K8s. |
 | ZooKeeper #1 | [Nuance-Mobility/zookeeper-operator](https://github.com/Nuance-Mobility/zookeeper-operator) | This is an operator for ZooKeeper 3.5.x |
 | ZooKeeper #2 | [pravega/zookeeper-operator](https://github.com/pravega/zookeeper-operator) | This is an operator for ZooKeeper 3.5.x |
+| Aqua Security | [aquasecurity/aqua-operator](https://github.com/aquasecurity/aqua-operator) | [Aqua Security](https://aquasec.com) Operator for k8s or openshift - aqua-operator is a group of controllers that runs within a Kubernetes or Openshift cluster that provides a means to deploy and manage Aqua Security cluster |
