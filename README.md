@@ -13,7 +13,6 @@ If you want to start building an Operator, you should definitely look into the [
 | Android SDK | [aerogear/android-sdk-operator](https://github.com/aerogear/android-sdk-operator) | A Kubernetes operator to manage android sdk packages syncronization in a persistent volume. |
 | Aqua Security | [aquasecurity/aqua-operator](https://github.com/aquasecurity/aqua-operator) | [Aqua Security](https://aquasec.com) Operator for k8s or openshift - aqua-operator is a group of controllers that runs within a Kubernetes or Openshift cluster that provides a means to deploy and manage Aqua Security cluster |
 | ArangoDB | [arangodb/kube-arangodb](https://github.com/arangodb/kube-arangodb) | ArangoDB Kubernetes Operator - Start ArangoDB on Kubernetes in 5min. |
-| Velero | [heptio/velero](https://github.com/heptio/velero) | Velero (formerly Ark) is a utility for managing disaster recovery, this operator manages the backup and restoration of cluster components (pv,pvc,deployments, etc.) to aid in disaster recovery.|
 | AWS | [giantswarm/aws-operator](https://github.com/giantswarm/aws-operator) | Manages Kubernetes clusters running on Amazon Web Services |
 | AWS Services | [awslabs/aws-service-operator](https://github.com/awslabs/aws-service-operator) | Manages AWS services that are used by your applications running in Kubernetes. |
 | Camel-k | [apache/camel-k](https://github.com/apache/camel-k) | Lightweight integration framework built from Apache Camel that runs natively on Kubernetes |
@@ -95,6 +94,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Unifiedpush | [aerogear/ups-config-operator](https://github.com/aerogear/ups-config-operator) | UnifiedPush Server is a server that allows sending push notifications to different (mobile) platforms. Using this operator manage your Unifiedpush variants from Kubernetes and Openshift |
 | Vault #1 | [coreos/vault-operator](https://github.com/coreos/vault-operator) | This operator will run and manage Vault on Kubernetes simply and securely. |
 | Vault #2  | [banzaicloud/bank-vaults](https://github.com/banzaicloud/bank-vaults)| This operator offers a feature rich HA Vault operator with TLS, external API based re/configuration, several/automatic unseal options and more.|
+| Velero | [heptio/velero](https://github.com/heptio/velero) | Velero (formerly Ark) is a utility for managing disaster recovery, this operator manages the backup and restoration of cluster components (pv,pvc,deployments, etc.) to aid in disaster recovery.|
 | WebLogic | [oracle/weblogic-kubernetes-operator](https://github.com/oracle/weblogic-kubernetes-operator) | Oracle Weblogic Server Kubernetes Operator |
 | WildFly | [banzaicloud/wildfly-operator](https://github.com/banzaicloud/wildfly-operator) | Wildfly Operator let's you describe and deploy JEE application on Wildfly server by creating a Custom Resource Definitions in Kubernetes. |
 | Wordpress | [presslabs/wordpress-operator](https://github.com/presslabs/wordpress-operator) | Enables managing multiple WordPress installments at scale. |
