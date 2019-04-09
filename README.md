@@ -43,7 +43,7 @@ If you want to start building an Operator, you should definitely look into the [
 | InfluxDB | [gianarb/influxdb-operator](https://github.com/gianarb/influxdb-operator) | InfluxDB is an open-source time series database. This is the Kubernetes operator for InfluxDB and the TICK stack. |
 | Istio Operator | [banzaicloud/istio-operator](https://github.com/banzaicloud/istio-operator) | An operator that manages Istio deployments on Kubernetes. |
 | Jaeger | [jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator) | Jaeger Operator for Kubernetes. |
-| Jenkins | [virtusLab/jenkins-operator](https://github.com/VirtusLab/jenkins-operator) | Kubernetes native Jenkins operator. |
+| Jenkins | [jenkinsci/jenkins-operator](https://github.com/jenkinsci/kubernetes-operator) | Kubernetes native Jenkins operator. |
 | Kafka #1 | [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator) | A Kafka Operator for Kubernetes |
 | Kafka #2 | [strimzi/strimzi](https://github.com/strimzi/strimzi)| Operator for running Kafka and Kafka Connect on Kubernetes and OpenShift |
 | Kanister | [kanisterio/kanister](https://github.com/kanisterio/kanister) | Kanister is an extensible framework for application-level data management on Kubernetes |
