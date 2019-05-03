@@ -72,7 +72,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Prometheus | [coreos/prometheus-operator](https://github.com/coreos/prometheus-operator) | Monitor Kubenertes and external resources with Prometheus. |
 | Prometheus Jmx Exporter | [banzaicloud/prometheus-jmx-exporter-operator](https://github.com/banzaicloud/prometheus-jmx-exporter-operator) | This operator using Jmx Exporter enables Java processes running ok Kubernetes Pods to expose metrics collected form mBeans via JMX to Prometheus. |
 | PVC | [banzaicloud/pvc-operator](https://github.com/banzaicloud/pvc-operator) | This operator helps to use Kubernetes Persistent Volumes easier on cloud providers by dynamically creating the required accounts, classes and more. |
-| Qdrouterd | [interconnectedcloud/qdrouterd](https://github.com/interconnectedcloud/qdrouterd-operator)| Operator for running Apache Qpid Dispatch Router (AMQP 1.0) on Kubernetes and OpenShift |
+| Qdr | [interconnectedcloud/qdr-operator](https://github.com/interconnectedcloud/qdr-operator)| Operator for running Apache Qpid Dispatch Router (AMQP 1.0) on Kubernetes and OpenShift |
 | Quobyte | [Quobyte/Quobyte](https://github.com/quobyte/kubernetes/tree/master/operator) |  [Quobyte’s](https://www.quobyte.com) next-generation file system unifies file, block and object storage for enterprise and scientific applications. |
 | RBAC Manager | [reactiveops/rbac-manager](https://github.com/reactiveops/rbac-manager) | This operator simplifies the management of RBAC Role Bindings in Kubernetes. |
 | RDS |  [MYOB-Technology/ops-kube-db-operator](https://github.com/MYOB-Technology/ops-kube-db-operator) | Operator to control RDS DBs in AWS. |
