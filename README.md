@@ -80,6 +80,7 @@ If you want to start building an Operator, you should definitely look into the [
 | RDS |  [MYOB-Technology/ops-kube-db-operator](https://github.com/MYOB-Technology/ops-kube-db-operator) | Operator to control RDS DBs in AWS. |
 | Redis #1 | [spotahome/redis-operator](https://github.com/spotahome/redis-operator) | Redis Operator creates/configures/manages redis clusters atop Kubernetes. |
 | Redis #2 | [jw-s/redis-operator](https://github.com/jw-s/redis-operator) | Redis operator for Kubernetes |
+| Redis #3 | [amaizfinance/redis-operator](https://github.com/amaizfinance/redis-operator) | Redis operator for Kubernetes. Provides high availability for Redis. Designed to resist to most kinds of failures without human intervention. |
 | Redis Cluster | [AmadeusITGroup/Redis-Operator](https://github.com/AmadeusITGroup/Redis-Operator) | A Kubernetes operator for running Redis in Cluster mode |
 | Registries | [kubic-project/registries-operator](https://github.com/kubic-project/registries-operator) | A Kubernetes operator for managing images registries |
 | RethinkDB | [jmckind/rethinkdb-operator](https://github.com/jmckind/rethinkdb-operator) | RethinkDB is a free and open-source, distributed document-oriented database. This is a Kubernetes operator to manage RethinkDB instances. |
