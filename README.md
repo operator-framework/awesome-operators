@@ -16,6 +16,7 @@ If you want to start building an Operator, you should definitely look into the [
 | aranya | [arhat-dev/aranya](https://github.com/arhat-dev/aranya) | A Kubernetes Operator for Edge Devices Management |
 | AWS | [giantswarm/aws-operator](https://github.com/giantswarm/aws-operator) | Manages Kubernetes clusters running on Amazon Web Services |
 | AWS Services | [awslabs/aws-service-operator](https://github.com/awslabs/aws-service-operator) | Manages AWS services that are used by your applications running in Kubernetes. |
+| Azure Databricks | [microsoft/azure-databricks-operator](https://github.com/microsoft/azure-databricks-operator) | Manages an Azure Databricks Workspace from inside your Kubernetes cluster. |
 | Camel-k | [apache/camel-k](https://github.com/apache/camel-k) | Lightweight integration framework built from Apache Camel that runs natively on Kubernetes |
 | Cassandra #1 | [instaclustr/cassandra-operator](https://github.com/instaclustr/cassandra-operator) | Kubernetes operator for Apache Cassandra. |
 | Cassandra #2 | [vgkowski/cassandra-operator](https://github.com/vgkowski/cassandra-operator) | Kubernetes operator for cassandra clusters automation. |
