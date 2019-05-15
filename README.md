@@ -20,6 +20,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Cassandra #1 | [instaclustr/cassandra-operator](https://github.com/instaclustr/cassandra-operator) | Kubernetes operator for Apache Cassandra. |
 | Cassandra #2 | [vgkowski/cassandra-operator](https://github.com/vgkowski/cassandra-operator) | Kubernetes operator for cassandra clusters automation. |
 | Cassandra #3 | [jetstack/navigator](https://github.com/jetstack/navigator) | Create and scale multi-AZ Casssandra clusters on Kubernetes. |
+| Cerebral     | [containership/cerebral](https://github.com/containership/cerebral) | Kubernetes cluster autoscaler operator with pluggable metric/event sources and cloud provider support |
 | cert-manager | [jetstack/cert-manager](https://github.com/jetstack/cert-manager) | Automatically provision and manage TLS certificates in Kubernetes |
 | CloudFormation | [linki/cloudformation-operator](https://github.com/linki/cloudformation-operator)| AWS CloudFormation is a service that helps you model and set up your Amazon Web Services resources. Using this operator run and manage CloudFormation stacks and manage AWS resources from Kubernetes. |
 | Consul | [python/consul-operator](https://github.com/python/consul-operator) | A Kubernetes operator for consul. |
