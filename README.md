@@ -31,8 +31,9 @@ If you want to start building an Operator, you should definitely look into the [
 | Dex | [kubic-project/dex-operator](https://github.com/kubic-project/dex-operator) | A Kubernetes operator for configuring Dex with custom resources  |
 | DynamoDB | [microdc/k8s-dynamodb-operator](https://github.com/microdc/k8s-dynamodb-operator) | Amazon DynamoDB is a fully  proprietary NoSQL database service that supports key-value and document data structures. This is a Kubernetes operator for DynamoDB  |
 | Elasticell | [deepfabric/elasticell-operator](https://github.com/deepfabric/elasticell-operator) | Elasticell is a key-value storage with strong consistency and reliability. This is a Kubernetes operator for Elasticell |
-| Elasticsearch #1 | [upmc-enterprises/elasticsearch-operator](https://github.com/upmc-enterprises/elasticsearch-operator) | Manages one or more elastic search clusters on Kubernetes. |
-| Elasticsearch #2 | [jetstack/navigator](https://github.com/jetstack/navigator) | Create, scale and upgrade multi-AZ Elasticsearch clusters on Kubernetes |
+| Elasticsearch #1 (Official) | [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) | Elastic Cloud on Kubernetes (ECK) is the official Elastic Operator to deploy, provision, manage and orchestrate secured Elasticsearch clusters and Kibana on Kubernetes. |
+| Elasticsearch #2 | [upmc-enterprises/elasticsearch-operator](https://github.com/upmc-enterprises/elasticsearch-operator) | Manages one or more elastic search clusters on Kubernetes. |
+| Elasticsearch #3 | [jetstack/navigator](https://github.com/jetstack/navigator) | Create, scale and upgrade multi-AZ Elasticsearch clusters on Kubernetes |
 | Envoy | [solo-io/envoy-operator](https://github.com/solo-io/envoy-operator)| Envoy is a Microservice Abstraction Layer (also known as an API Gateway, API Middleware or in some cases Service Mesh)Run and manage Envoy on Kubernetes simply and securely. |
 | etcd | [coreos/etcd-operator](https://github.com/coreos/etcd-operator) | Manages etcd k/v database clusters on Kubernetes. |
 | Fortio-operator | [verfio/fortio-operator](https://github.com/verfio/fortio-operator) | Load Testing Operator within the Kubernetes cluster and outside of it. |
@@ -54,6 +55,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Kanister | [kanisterio/kanister](https://github.com/kanisterio/kanister) | Kanister is an extensible framework for application-level data management on Kubernetes |
 | Konfigurator | [stakater/konfigurator](https://github.com/stakater/konfigurator) | Dynamically generates and manages app configuration based on kubernetes resources |
 | Kong | [upmc-enterprises/kong-operator](https://github.com/upmc-enterprises/kong-operator) | Manages Kong clusters on Kubernetes (no longer actively maintained)|
+| Kopf | [kopf/operator](https://github.com/zalando-incubator/kopf) | A Python framework to write Kubernetes operators in just few lines of code.  |
 | KubeDB | [kubedb/operator](https://github.com/kubedb/operator) | KubeDB Operator |
 | KubeVirt | [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) | Kubernetes Virtualization Operator with API and runtime in order to define and manage virtual machines. |
 | Logging Operator | [banzaicloud/logging-operator](https://github.com/banzaicloud/logging-operator) | Logging operator for Kubernetes based on Fluentd and Fluent-bit. |
@@ -69,6 +71,7 @@ If you want to start building an Operator, you should definitely look into the [
 | MySQL #5 | [Percona-Lab/percona-xtradb-cluster-operator](https://github.com/Percona-Lab/percona-xtradb-cluster-operator) | A Kubernetes operator for [Percona XtraDB Cluster](https://www.percona.com/software/mysql-database/percona-xtradb-cluster). Multi-master MySQL cluster with ProxySQL ingress, native backups, scaling, monitoring, reliable automatic self-healing. |
 | NATS | [nats-io/nats-operator](https://github.com/nats-io/nats-operator) | This operator manages NATS clusters atop Kubernetes, automating their creation and administration. |
 | Netperf | [piontec/netperf-operator](https://github.com/piontec/netperf-operator) | This is a very simple operator that can be used to test network performance between 2 pods using the [netperf](https://hewlettpackard.github.io/netperf/) tool. It is also a good operator for learning puposes, as the code base is pretty small and it's described in detail in this [blog post](https://www.tailored.cloud/kubernetes/write-a-kubernetes-controller-operator-sdk/). |
+| NSQ | [andyxning/nsq-operator](https://github.com/andyxning/nsq-operator) | A Kubernetes operator for [NSQ](https://github.com/nsqio/nsq). |
 | OpenFaaS | [openfaas-incubator/openfaas-operator](https://github.com/openfaas-incubator/openfaas-operator) | An operator for [OpenFaaS](https://www.openfaas.com/) functions. | 
 | OpenStack Seeder | [sapcc/kubernetes-operators](https://github.com/sapcc/kubernetes-operators/tree/master/openstack-seeder) | Seed your OpenStack content with a this operator. |
 | opssight-connector | [blackducksoftware/opssight-connector](https://github.com/blackducksoftware/opssight-connector) | The Black Duck OpsSight Connector provides software composition analysis of open-source components of containers. |
