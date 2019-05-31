@@ -31,8 +31,9 @@ If you want to start building an Operator, you should definitely look into the [
 | Dex | [kubic-project/dex-operator](https://github.com/kubic-project/dex-operator) | A Kubernetes operator for configuring Dex with custom resources  |
 | DynamoDB | [microdc/k8s-dynamodb-operator](https://github.com/microdc/k8s-dynamodb-operator) | Amazon DynamoDB is a fully  proprietary NoSQL database service that supports key-value and document data structures. This is a Kubernetes operator for DynamoDB  |
 | Elasticell | [deepfabric/elasticell-operator](https://github.com/deepfabric/elasticell-operator) | Elasticell is a key-value storage with strong consistency and reliability. This is a Kubernetes operator for Elasticell |
-| Elasticsearch #1 | [upmc-enterprises/elasticsearch-operator](https://github.com/upmc-enterprises/elasticsearch-operator) | Manages one or more elastic search clusters on Kubernetes. |
-| Elasticsearch #2 | [jetstack/navigator](https://github.com/jetstack/navigator) | Create, scale and upgrade multi-AZ Elasticsearch clusters on Kubernetes |
+| Elasticsearch #1 (Official) | [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) | Elastic Cloud on Kubernetes (ECK) is the official Elastic Operator to deploy, provision, manage and orchestrate secured Elasticsearch clusters and Kibana on Kubernetes. |
+| Elasticsearch #2 | [upmc-enterprises/elasticsearch-operator](https://github.com/upmc-enterprises/elasticsearch-operator) | Manages one or more elastic search clusters on Kubernetes. |
+| Elasticsearch #3 | [jetstack/navigator](https://github.com/jetstack/navigator) | Create, scale and upgrade multi-AZ Elasticsearch clusters on Kubernetes |
 | Envoy | [solo-io/envoy-operator](https://github.com/solo-io/envoy-operator)| Envoy is a Microservice Abstraction Layer (also known as an API Gateway, API Middleware or in some cases Service Mesh)Run and manage Envoy on Kubernetes simply and securely. |
 | etcd | [coreos/etcd-operator](https://github.com/coreos/etcd-operator) | Manages etcd k/v database clusters on Kubernetes. |
 | Fortio-operator | [verfio/fortio-operator](https://github.com/verfio/fortio-operator) | Load Testing Operator within the Kubernetes cluster and outside of it. |
