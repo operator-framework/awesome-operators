@@ -42,6 +42,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Gitea | [integr8ly/gitea-operator](https://github.com/integr8ly/gitea-operator) | An Operator that installs [Gitea](https://gitea.io/en-us/) and, optionally on OpenShift, an [oauth proxy](https://github.com/openshift/oauth-proxy) |
 | GitLab | [gitlab-operator](https://gitlab.com/charts/components/gitlab-operator) | supports online upgrades |
 | Google Cloud Operator | [paulczar/gcp-cloud-compute-operator](https://github.com/paulczar/gcp-cloud-compute-operator) | Allows the provisioning of Google Cloud resources such as Instances and Images using Kubernetes |
+| Grafana | [integr8ly/grafana-operator](https://github.com/integr8ly/grafana-operator) | A Kubernetes Operator for creating and managing Grafana instances. |
 | Habitat | [habitat-sh/habitat-operator](https://github.com/habitat-sh/habitat-operator) | A Kubernetes operator for Habitat services. |
 | Hazelcast (Official) | [hazelcast/hazelcast-operator](https://github.com/hazelcast/hazelcast-operator) | Hazelcast Enterprise cluster with Management Center |
 | HPA Operator | [banzaicloud/hpa-operator](https://github.com/banzaicloud/hpa-operator) | Horizontal Pod Autoscaler operator for Kubernetes. Annotate, and let HPA operator do the rest. |
