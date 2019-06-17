@@ -55,6 +55,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Kafka #1 | [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator) | A Kafka Operator for Kubernetes |
 | Kafka #2 | [strimzi/strimzi](https://github.com/strimzi/strimzi)| Operator for running Kafka and Kafka Connect on Kubernetes and OpenShift |
 | Kanister | [kanisterio/kanister](https://github.com/kanisterio/kanister) | Kanister is an extensible framework for application-level data management on Kubernetes |
+| KMS Vault | [patoarvizu/kms-vault-operator](https://github.com/patoarvizu/kms-vault-operator) | Operator for managing [KMS](https://aws.amazon.com/kms/)-encrypted secrets and write them to [Hashicorp Vault](https://www.vaultproject.io/). |
 | Konfigurator | [stakater/konfigurator](https://github.com/stakater/konfigurator) | Dynamically generates and manages app configuration based on kubernetes resources |
 | Kong | [upmc-enterprises/kong-operator](https://github.com/upmc-enterprises/kong-operator) | Manages Kong clusters on Kubernetes (no longer actively maintained)|
 | Kopf | [kopf/operator](https://github.com/zalando-incubator/kopf) | A Python framework to write Kubernetes operators in just few lines of code.  |
