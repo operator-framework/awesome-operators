@@ -39,6 +39,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Envoy | [solo-io/envoy-operator](https://github.com/solo-io/envoy-operator)| Envoy is a Microservice Abstraction Layer (also known as an API Gateway, API Middleware or in some cases Service Mesh)Run and manage Envoy on Kubernetes simply and securely. |
 | External Secret Operator | [ContainerSolutions/externalsecrets-operator](https://github.com/ContainerSolutions/externalsecret-operator)| External Secret Operator injects secrets from secret stores like [AWS Secret Manager](https://aws.amazon.com/secrets-manager/) or [1Password](https://1password.com/) and injects them as Kubernetes Secret resources. |
 | etcd | [coreos/etcd-operator](https://github.com/coreos/etcd-operator) | Manages etcd k/v database clusters on Kubernetes. |
+| Flink | [lyft/flinkk8soperator](https://github.com/lyft/flinkk8soperator) | Kubernetes operator that provides control plane for managing Apache Flink applications. |
 | Flux | [fluxcd/flux](https://github.com/fluxcd/flux) | The GitOps Kubernetes Operator. |
 | Flux Helm Operator | [fluxcd/helm-operator](https://github.com/fluxcd/helm-operator) | Manage Helm releases using `HelmRelease` resources. |
 | Fortio-operator | [verfio/fortio-operator](https://github.com/verfio/fortio-operator) | Load Testing Operator within the Kubernetes cluster and outside of it. |
