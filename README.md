@@ -26,6 +26,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Cerebral     | [containership/cerebral](https://github.com/containership/cerebral) | Kubernetes cluster autoscaler operator with pluggable metric/event sources and cloud provider support |
 | cert-manager | [jetstack/cert-manager](https://github.com/jetstack/cert-manager) | Automatically provision and manage TLS certificates in Kubernetes |
 | ClickHouse | [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) | A Kubernetes operator for ClickHouse. |
+| Cloud Foundry | [cloudfoundry/cf-operator](https://github.com/cloudfoundry-incubator/cf-operator) | Run Cloud Foundry upon Kubernetes, or any BOSH deployment |
 | CloudFormation | [linki/cloudformation-operator](https://github.com/linki/cloudformation-operator)| AWS CloudFormation is a service that helps you model and set up your Amazon Web Services resources. Using this operator run and manage CloudFormation stacks and manage AWS resources from Kubernetes. |
 | Consul | [python/consul-operator](https://github.com/python/consul-operator) | A Kubernetes operator for consul. |
 | Couchbase Autonomous Operator | [couchbase/operator](https://access.redhat.com/containers/?tab=overview&platform=openshift#/registry.connect.redhat.com/couchbase/operator) | Automates administrative tasks and operational best practices while maintaining full data platform capabilities from within and across clouds and on-premises deployments. |
