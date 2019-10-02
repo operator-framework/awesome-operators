@@ -84,6 +84,7 @@ If you want to start building an Operator, you should definitely look into the [
 | NSQ | [andyxning/nsq-operator](https://github.com/andyxning/nsq-operator) | A Kubernetes operator for [NSQ](https://github.com/nsqio/nsq). |
 | OpenFaaS | [openfaas-incubator/openfaas-operator](https://github.com/openfaas-incubator/openfaas-operator) | An operator for [OpenFaaS](https://www.openfaas.com/) functions. | 
 | OpenStack Seeder | [sapcc/kubernetes-operators](https://github.com/sapcc/kubernetes-operators/tree/master/openstack-seeder) | Seed your OpenStack content with a this operator. |
+| Oracle Database | [malagoli/oracle-db-operator](https://github.com/malagoli/oracle-db-operator) | Prototype of an Oracle Database operator. |
 | opssight-connector | [blackducksoftware/opssight-connector](https://github.com/blackducksoftware/opssight-connector) | The Black Duck OpsSight Connector provides software composition analysis of open-source components of containers. |
 | PostgreSQL #1 | [CrunchyData/postgres-operator](https://github.com/CrunchyData/postgres-operator) | PostgreSQL Operator Creates/Configures/Manages PostgreSQL Clusters on Kubernetes |
 | PostgreSQL #2 | [zalando-incubator/postgres-operator](https://github.com/zalando-incubator/postgres-operator) | Create and manage PostgreSQL HA clusters on Kubernetes using [Patroni](https://github.com/zalando/patroni) |
