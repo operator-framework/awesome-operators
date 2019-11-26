@@ -68,6 +68,7 @@ If you want to start building an Operator, you should definitely look into the [
 | KubeDB | [kubedb/operator](https://github.com/kubedb/operator) | KubeDB Operator |
 | KubeVirt | [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) | Kubernetes Virtualization Operator with API and runtime in order to define and manage virtual machines. |
 | Logging Operator | [banzaicloud/logging-operator](https://github.com/banzaicloud/logging-operator) | Logging operator for Kubernetes based on Fluentd and Fluent-bit. |
+| Mailgun | [whyseco/mailgun-operator](https://github.com/whyseco/mailgun-operator) | Mailgun operator to deploy mailgun configuration through a kubernetes controller. |
 | Memcached | [ianlewis/memcached-operator](https://github.com/ianlewis/memcached-operator) | A Kubernetes operator for memcached |
 | MongoDB #1 (Official) | [mongodb/mongodb-enterprise-kubernetes](https://github.com/mongodb/mongodb-enterprise-kubernetes) | MongoDB Enterprise Operator for Kubernetes |
 | MongoDB #2| [kbst/mongodb](https://github.com/kbst/mongodb) | MongoDB Operator for Kubernetes |
