@@ -60,6 +60,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Jenkins | [jenkinsci/jenkins-operator](https://github.com/jenkinsci/kubernetes-operator) | Kubernetes native Jenkins operator. |
 | Kafka #1 | [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator) | A Kafka Operator for Kubernetes |
 | Kafka #2 | [strimzi/strimzi](https://github.com/strimzi/strimzi)| Operator for running Kafka and Kafka Connect on Kubernetes and OpenShift |
+| Kafka #3 | [banzaicloud/kafka-operator](https://github.com/banzaicloud/kafka-operator) | An operator that manages Kafka on Kubernetes. |
 | Kanister | [kanisterio/kanister](https://github.com/kanisterio/kanister) | Kanister is an extensible framework for application-level data management on Kubernetes |
 | KMS Vault | [patoarvizu/kms-vault-operator](https://github.com/patoarvizu/kms-vault-operator) | Operator for managing [KMS](https://aws.amazon.com/kms/)-encrypted secrets and write them to [Hashicorp Vault](https://www.vaultproject.io/). |
 | Konfigurator | [stakater/konfigurator](https://github.com/stakater/konfigurator) | Dynamically generates and manages app configuration based on kubernetes resources |
