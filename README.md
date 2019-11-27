@@ -50,6 +50,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Google Cloud Operator | [paulczar/gcp-cloud-compute-operator](https://github.com/paulczar/gcp-cloud-compute-operator) | Allows the provisioning of Google Cloud resources such as Instances and Images using Kubernetes |
 | Grafana | [integr8ly/grafana-operator](https://github.com/integr8ly/grafana-operator) | A Kubernetes Operator for creating and managing Grafana instances. |
 | Habitat | [habitat-sh/habitat-operator](https://github.com/habitat-sh/habitat-operator) | A Kubernetes operator for Habitat services. |
+| Halkyon | [halkyonio/operator](https://github.com/halkyonio/operator) | To simplify the process of composing/deploying and bind micro-service applications on Kubernetes | 
 | Hazelcast (Official) | [hazelcast/hazelcast-operator](https://github.com/hazelcast/hazelcast-operator) | Hazelcast Enterprise cluster with Management Center |
 | HPA Operator | [banzaicloud/hpa-operator](https://github.com/banzaicloud/hpa-operator) | Horizontal Pod Autoscaler operator for Kubernetes. Annotate, and let HPA operator do the rest. |
 | Icinga2 operator | [appscode/searchlight](https://github.com/appscode/searchlight) | Alerts for Kubernetes |
