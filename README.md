@@ -52,6 +52,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Google Cloud Operator | [paulczar/gcp-cloud-compute-operator](https://github.com/paulczar/gcp-cloud-compute-operator) | Allows the provisioning of Google Cloud resources such as Instances and Images using Kubernetes |
 | Grafana | [integr8ly/grafana-operator](https://github.com/integr8ly/grafana-operator) | A Kubernetes Operator for creating and managing Grafana instances. |
 | Habitat | [habitat-sh/habitat-operator](https://github.com/habitat-sh/habitat-operator) | A Kubernetes operator for Habitat services. |
+| Halkyon | [halkyonio/operator](https://github.com/halkyonio/operator) | To simplify the process of composing/deploying and bind micro-service applications on Kubernetes | 
 | Hazelcast (Official) | [hazelcast/hazelcast-operator](https://github.com/hazelcast/hazelcast-operator) | Hazelcast Enterprise cluster with Management Center |
 | HPA Operator | [banzaicloud/hpa-operator](https://github.com/banzaicloud/hpa-operator) | Horizontal Pod Autoscaler operator for Kubernetes. Annotate, and let HPA operator do the rest. |
 | Icinga2 operator | [appscode/searchlight](https://github.com/appscode/searchlight) | Alerts for Kubernetes |
@@ -62,7 +63,8 @@ If you want to start building an Operator, you should definitely look into the [
 | Jenkins | [jenkinsci/jenkins-operator](https://github.com/jenkinsci/kubernetes-operator) | Kubernetes native Jenkins operator. |
 | Kafka #1 | [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator) | A Kafka Operator for Kubernetes |
 | Kafka #2 | [strimzi/strimzi](https://github.com/strimzi/strimzi)| Operator for running Kafka and Kafka Connect on Kubernetes and OpenShift |
-| Kafka #3 | [kudobuilder/operators/kafka](https://github.com/kudobuilder/operators/tree/master/repository/kafka) | An Apache Kafka Operator built on [KUDO](https://kudo.dev) |
+| Kafka #3 | [banzaicloud/kafka-operator](https://github.com/banzaicloud/kafka-operator) | An operator that manages Kafka on Kubernetes. |
+| Kafka #4 | [kudobuilder/operators/kafka](https://github.com/kudobuilder/operators/tree/master/repository/kafka) | An Apache Kafka Operator built on [KUDO](https://kudo.dev)
 | Kanister | [kanisterio/kanister](https://github.com/kanisterio/kanister) | Kanister is an extensible framework for application-level data management on Kubernetes |
 | KMS Vault | [patoarvizu/kms-vault-operator](https://github.com/patoarvizu/kms-vault-operator) | Operator for managing [KMS](https://aws.amazon.com/kms/)-encrypted secrets and write them to [Hashicorp Vault](https://www.vaultproject.io/). |
 | Konfigurator | [stakater/konfigurator](https://github.com/stakater/konfigurator) | Dynamically generates and manages app configuration based on kubernetes resources |
@@ -86,6 +88,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Neo4J | [lukasz-antoniak/neo4j-operator](https://github.com/lukasz-antoniak/neo4j-operator) | Kubernetes operator for Neo4J graph database. Allows to quickly provision, check status and periodically backup Neo4J cluster. |
 | Netperf | [piontec/netperf-operator](https://github.com/piontec/netperf-operator) | This is a very simple operator that can be used to test network performance between 2 pods using the [netperf](https://hewlettpackard.github.io/netperf/) tool. It is also a good operator for learning puposes, as the code base is pretty small and it's described in detail in this [blog post](https://www.tailored.cloud/kubernetes/write-a-kubernetes-controller-operator-sdk/). |
 | NSQ | [andyxning/nsq-operator](https://github.com/andyxning/nsq-operator) | A Kubernetes operator for [NSQ](https://github.com/nsqio/nsq). |
+| NuoDB | [nuodb/nuodb-operator](https://github.com/nuodb/nuodb-operator) | The NuoDB Operator deploys the NuoDB database and supports either ephemeral or persistent storage options with configurations to run NuoDB Insights, a visual database monitoring Web UI, and start a sample application (ycsb) to quickly generate a configurable SQL workload against the database.  See: [NuoDb's github](https://github.com/nuodb/nuodb-operator) for requirements. |
 | OpenFaaS | [openfaas-incubator/openfaas-operator](https://github.com/openfaas-incubator/openfaas-operator) | An operator for [OpenFaaS](https://www.openfaas.com/) functions. | 
 | OpenStack Seeder | [sapcc/kubernetes-operators](https://github.com/sapcc/kubernetes-operators/tree/master/openstack-seeder) | Seed your OpenStack content with a this operator. |
 | Oracle Database | [malagoli/oracle-db-operator](https://github.com/malagoli/oracle-db-operator) | Prototype of an Oracle Database operator. |
@@ -96,6 +99,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Prometheus | [coreos/prometheus-operator](https://github.com/coreos/prometheus-operator) | Monitor Kubenertes and external resources with Prometheus. |
 | Prometheus Jmx Exporter | [banzaicloud/prometheus-jmx-exporter-operator](https://github.com/banzaicloud/prometheus-jmx-exporter-operator) | This operator using Jmx Exporter enables Java processes running ok Kubernetes Pods to expose metrics collected form mBeans via JMX to Prometheus. |
 | PVC | [banzaicloud/pvc-operator](https://github.com/banzaicloud/pvc-operator) | This operator helps to use Kubernetes Persistent Volumes easier on cloud providers by dynamically creating the required accounts, classes and more. |
+| Pulsar | [sky-big/pulsar-operator](https://github.com/sky-big/pulsar-operator) | Manages pulsar cluster on Kubernetes. |
 | Qdr | [interconnectedcloud/qdr-operator](https://github.com/interconnectedcloud/qdr-operator)| Operator for running Apache Qpid Dispatch Router (AMQP 1.0) on Kubernetes and OpenShift |
 | Quobyte | [Quobyte/Quobyte](https://github.com/quobyte/kubernetes/tree/master/operator) |  [Quobyte’s](https://www.quobyte.com) next-generation file system unifies file, block and object storage for enterprise and scientific applications. |
 | RBAC Manager | [reactiveops/rbac-manager](https://github.com/reactiveops/rbac-manager) | This operator simplifies the management of RBAC Role Bindings in Kubernetes. |
@@ -105,7 +109,8 @@ If you want to start building an Operator, you should definitely look into the [
 | Redis #2 | [jw-s/redis-operator](https://github.com/jw-s/redis-operator) | Redis operator for Kubernetes |
 | Redis #3 | [amaizfinance/redis-operator](https://github.com/amaizfinance/redis-operator) | Redis operator for Kubernetes. Provides high availability for Redis. Designed to resist to most kinds of failures without human intervention. |
 | Redis #4 | [kube-incubator/redis-operator](https://github.com/kube-incubator/redis-operator) | Redis operator for Kubernetes based on operator-sdk. |
-| Redis Cluster | [AmadeusITGroup/Redis-Operator](https://github.com/AmadeusITGroup/Redis-Operator) | A Kubernetes operator for running Redis in Cluster mode |
+| Redis Cluster #1 | [AmadeusITGroup/Redis-Operator](https://github.com/AmadeusITGroup/Redis-Operator) | A Kubernetes operator for running Redis in Cluster mode |
+| Redis Cluster #2 | [ucloud/redis-cluster-operator](https://github.com/ucloud/redis-cluster-operator) | Redis Cluster Operator creates and manages Redis in Cluster mode atop Kubernetes |
 | Registries | [kubic-project/registries-operator](https://github.com/kubic-project/registries-operator) | A Kubernetes operator for managing images registries |
 | RethinkDB | [jmckind/rethinkdb-operator](https://github.com/jmckind/rethinkdb-operator) | RethinkDB is a free and open-source, distributed document-oriented database. This is a Kubernetes operator to manage RethinkDB instances. |
 | RocketMQ #1 | [huanwei/rocketmq-operator](https://github.com/huanwei/rocketmq-operator) | Create, operate and scale self-healing Rocketmq clusters on Kubernetes. |
