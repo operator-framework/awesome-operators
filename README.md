@@ -16,6 +16,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Argo CD | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | Declarative continuous deployment for Kubernetes |
 | AWS | [giantswarm/aws-operator](https://github.com/giantswarm/aws-operator) | Manages Kubernetes clusters running on Amazon Web Services |
 | AWS Services | [awslabs/aws-service-operator](https://github.com/awslabs/aws-service-operator) | Manages AWS services that are used by your applications running in Kubernetes. |
+| AWS SageMaker| [aws/amazon-sagemaker-operator-for-k8s](https://github.com/aws/amazon-sagemaker-operator-for-k8s/) | Manages AWS sagemaker jobs from inside your kubernetes cluster. |
 | Azure Databricks | [microsoft/azure-databricks-operator](https://github.com/microsoft/azure-databricks-operator) | Manages an Azure Databricks Workspace from inside your Kubernetes cluster. |
 | Camel-k | [apache/camel-k](https://github.com/apache/camel-k) | Lightweight integration framework built from Apache Camel that runs natively on Kubernetes |
 | Cassandra #1 | [instaclustr/cassandra-operator](https://github.com/instaclustr/cassandra-operator) | Kubernetes operator for Apache Cassandra. |
