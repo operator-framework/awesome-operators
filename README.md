@@ -11,6 +11,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Aerospike | [travelaudience/aerospike-operator](https://github.com/travelaudience/aerospike-operator) | Aerospike is a NoSQL distributed database. This Operator manages Aerospike clusters atop Kubernetes, automating their creation and administration. |
 | Airflow | [GoogleCloudPlatform/airflow-operator](https://github.com/GoogleCloudPlatform/airflow-operator) | A Kubernetes operator to manage Apache Airflow. |
 | Android SDK | [aerogear/android-sdk-operator](https://github.com/aerogear/android-sdk-operator) | A Kubernetes operator to manage android sdk packages syncronization in a persistent volume. |
+| Appsody | [appsody/appsody-operator](https://github.com/appsody/appsody-operator) | An Operator for deploying Appsody based applications to Kubernetes. |
 | Aqua Security | [aquasecurity/aqua-operator](https://github.com/aquasecurity/aqua-operator) | [Aqua Security](https://aquasec.com) Operator for k8s or openshift - aqua-operator is a group of controllers that runs within a Kubernetes or Openshift cluster that provides a means to deploy and manage Aqua Security cluster |
 | ArangoDB | [arangodb/kube-arangodb](https://github.com/arangodb/kube-arangodb) | ArangoDB Kubernetes Operator - Start ArangoDB on Kubernetes in 5min. |
 | Argo CD | [argoproj/argo-cd](https://github.com/argoproj/argo-cd) | Declarative continuous deployment for Kubernetes |
