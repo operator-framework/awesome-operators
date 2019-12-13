@@ -55,6 +55,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Halkyon | [halkyonio/operator](https://github.com/halkyonio/operator) | To simplify the process of composing/deploying and bind micro-service applications on Kubernetes | 
 | Hazelcast (Official) | [hazelcast/hazelcast-operator](https://github.com/hazelcast/hazelcast-operator) | Hazelcast Enterprise cluster with Management Center |
 | HPA Operator | [banzaicloud/hpa-operator](https://github.com/banzaicloud/hpa-operator) | Horizontal Pod Autoscaler operator for Kubernetes. Annotate, and let HPA operator do the rest. |
+| IBM Block Storage CSI Driver | [IBM/ibm-block-csi-operator](https://github.com/IBM/ibm-block-csi-operator) | The IBM block storage CSI driver enables container orchestrators, such as Kubernetes and OpenShift, to manage the life-cycle of persistent storage. This operator deploys and manages the driver. |
 | Icinga2 operator | [appscode/searchlight](https://github.com/appscode/searchlight) | Alerts for Kubernetes |
 | Infinispan | [banzaicloud/infinispan-operator](https://github.com/banzaicloud/infinispan-operator) |  Infinispan is a distributed in-memory key/value data store. This operator deploys and runs an Infinispan cache cluster. |
 | InfluxDB | [gianarb/influxdb-operator](https://github.com/gianarb/influxdb-operator) | InfluxDB is an open-source time series database. This is the Kubernetes operator for InfluxDB and the TICK stack. |
