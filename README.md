@@ -141,4 +141,4 @@ If you want to start building an Operator, you should definitely look into the [
 | Zeebe | [zeebe-io/zeebe-operator](https://github.com/zeebe-io/zeebe-operator) | Kubernetes Operator for Zeebe - Let me manage your https://zeebe.io cluster on K8s. |
 | ZooKeeper #1 | [Nuance-Mobility/zookeeper-operator](https://github.com/Nuance-Mobility/zookeeper-operator) | This is an operator for ZooKeeper 3.5.x |
 | ZooKeeper #2 | [pravega/zookeeper-operator](https://github.com/pravega/zookeeper-operator) | This is an operator for ZooKeeper 3.5.x |
-| ZooKeeper #3 | [kudobuilder/operators/zookeeper](https://github.com/pravega/zookeeper-operator) | An Operator for Apache ZooKeeper built with [KUDO](https://kudo.dev) |
+| ZooKeeper #3 | [kudobuilder/operators/zookeeper](https://github.com/kudobuilder/operators/tree/master/repository/zookeeper) | An Operator for Apache ZooKeeper built with [KUDO](https://kudo.dev) |
