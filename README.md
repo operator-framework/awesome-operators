@@ -112,6 +112,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Redis #2 | [jw-s/redis-operator](https://github.com/jw-s/redis-operator) | Redis operator for Kubernetes |
 | Redis #3 | [amaizfinance/redis-operator](https://github.com/amaizfinance/redis-operator) | Redis operator for Kubernetes. Provides high availability for Redis. Designed to resist to most kinds of failures without human intervention. |
 | Redis #4 | [kube-incubator/redis-operator](https://github.com/kube-incubator/redis-operator) | Redis operator for Kubernetes based on operator-sdk. |
+| Redis #5 | [ucloud/redis-operator](https://github.com/ucloud/redis-operator) | Redis operator build a Highly Available Redis cluster with Sentinel atop Kubernetes |
 | Redis Cluster #1 | [AmadeusITGroup/Redis-Operator](https://github.com/AmadeusITGroup/Redis-Operator) | A Kubernetes operator for running Redis in Cluster mode |
 | Redis Cluster #2 | [ucloud/redis-cluster-operator](https://github.com/ucloud/redis-cluster-operator) | Redis Cluster Operator creates and manages Redis in Cluster mode atop Kubernetes |
 | Registries | [kubic-project/registries-operator](https://github.com/kubic-project/registries-operator) | A Kubernetes operator for managing images registries |
