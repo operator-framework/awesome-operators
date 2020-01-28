@@ -49,7 +49,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Fortio-operator | [verfio/fortio-operator](https://github.com/verfio/fortio-operator) | Load Testing Operator within the Kubernetes cluster and outside of it. |
 | GateKeeper | [replicatedhq/gatekeeper](https://github.com/replicatedhq/gatekeeper) | Manages dynamic Admission Controllers using Open Policy Agent.
 | Gitea | [integr8ly/gitea-operator](https://github.com/integr8ly/gitea-operator) | An Operator that installs [Gitea](https://gitea.io/en-us/) and, optionally on OpenShift, an [oauth proxy](https://github.com/openshift/oauth-proxy) |
-| GitLab | [gitlab-operator](https://gitlab.com/charts/components/gitlab-operator) | supports online upgrades |
+| GitLab | [gitlab-operator](https://gitlab.com/gitlab-org/charts/components/gitlab-operator/) | supports online upgrades |
 | Google Cloud Operator | [paulczar/gcp-cloud-compute-operator](https://github.com/paulczar/gcp-cloud-compute-operator) | Allows the provisioning of Google Cloud resources such as Instances and Images using Kubernetes |
 | Grafana | [integr8ly/grafana-operator](https://github.com/integr8ly/grafana-operator) | A Kubernetes Operator for creating and managing Grafana instances. |
 | Habitat | [habitat-sh/habitat-operator](https://github.com/habitat-sh/habitat-operator) | A Kubernetes operator for Habitat services. |
