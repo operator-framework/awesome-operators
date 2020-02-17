@@ -27,6 +27,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Cassandra #5 | [kudobuilder/operators/cassandra](https://github.com/kudobuilder/operators/tree/master/repository/cassandra/3.11) | An Operator for Apache Cassandra built using [KUDO](https://kudo.dev) |
 | Cerebral     | [containership/cerebral](https://github.com/containership/cerebral) | Kubernetes cluster autoscaler operator with pluggable metric/event sources and cloud provider support |
 | cert-manager | [jetstack/cert-manager](https://github.com/jetstack/cert-manager) | Automatically provision and manage TLS certificates in Kubernetes |
+| Che     | [eclipse/che-operator](https://github.com/eclipse/che-operator) | Kubernetes operator for Che, a container based IDE that provides a fast, easy to use, extensible platform for hybrid cloud development teams |
 | ClickHouse | [Altinity/clickhouse-operator](https://github.com/Altinity/clickhouse-operator) | A Kubernetes operator for ClickHouse. |
 | Cloud Foundry | [cloudfoundry/cf-operator](https://github.com/cloudfoundry-incubator/cf-operator) | Run Cloud Foundry upon Kubernetes, or any BOSH deployment |
 | CloudFormation | [linki/cloudformation-operator](https://github.com/linki/cloudformation-operator)| AWS CloudFormation is a service that helps you model and set up your Amazon Web Services resources. Using this operator run and manage CloudFormation stacks and manage AWS resources from Kubernetes. |
