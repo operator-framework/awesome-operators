@@ -38,6 +38,7 @@ If you want to start building an Operator, you should definitely look into the [
 | CouchDB #2 | [nicolai86/couchdb-operator](https://github.com/nicolai86/couchdb-operator) | Prototype Kubernetes operator for couchDB. |
 | Dex | [kubic-project/dex-operator](https://github.com/kubic-project/dex-operator) | A Kubernetes operator for configuring Dex with custom resources  |
 | DynamoDB | [microdc/k8s-dynamodb-operator](https://github.com/microdc/k8s-dynamodb-operator) | Amazon DynamoDB is a fully  proprietary NoSQL database service that supports key-value and document data structures. This is a Kubernetes operator for DynamoDB  |
+| DB Operator | [kloeckner-i/db-operator](https://github.com/kloeckner-i/db-operator) | A DB Operator for MySQL/PostgresSQL. Supports also Google Cloud SQL instance creation. |
 | Elasticell | [deepfabric/elasticell-operator](https://github.com/deepfabric/elasticell-operator) | Elasticell is a key-value storage with strong consistency and reliability. This is a Kubernetes operator for Elasticell |
 | Elasticsearch #1 (Official) | [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) | Elastic Cloud on Kubernetes (ECK) is the official Elastic Operator to deploy, provision, manage and orchestrate secured Elasticsearch clusters and Kibana on Kubernetes. |
 | Elasticsearch #2 | [upmc-enterprises/elasticsearch-operator](https://github.com/upmc-enterprises/elasticsearch-operator) | Manages one or more elastic search clusters on Kubernetes. |
