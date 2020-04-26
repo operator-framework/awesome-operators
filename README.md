@@ -21,11 +21,12 @@ If you want to start building an Operator, you should definitely look into the [
 | AWS SageMaker | [aws/amazon-sagemaker-operator-for-k8s](https://github.com/aws/amazon-sagemaker-operator-for-k8s/) | Manages AWS sagemaker jobs from inside your kubernetes cluster. |
 | Azure Databricks | [microsoft/azure-databricks-operator](https://github.com/microsoft/azure-databricks-operator) | Manages an Azure Databricks Workspace from inside your Kubernetes cluster. |
 | Camel-k | [apache/camel-k](https://github.com/apache/camel-k) | Lightweight integration framework built from Apache Camel that runs natively on Kubernetes |
-| Cassandra #1 | [instaclustr/cassandra-operator](https://github.com/instaclustr/cassandra-operator) | Kubernetes operator for Apache Cassandra. |
-| Cassandra #2 | [vgkowski/cassandra-operator](https://github.com/vgkowski/cassandra-operator) | Kubernetes operator for cassandra clusters automation. |
-| Cassandra #3 | [jetstack/navigator](https://github.com/jetstack/navigator) | Create and scale multi-AZ Casssandra clusters on Kubernetes. |
-| Cassandra #4 | [Orange-OpenSource/cassandra-k8s-operator](https://github.com/Orange-OpenSource/cassandra-k8s-operator) | This Kubernetes operator automates the Cassandra operations such as deploying a new rack aware cluster, adding/removing nodes, configuring the C* and JVM parameters, upgrading JVM and C* versions, and many more...  |
-| Cassandra #5 | [kudobuilder/operators/cassandra](https://github.com/kudobuilder/operators/tree/master/repository/cassandra/3.11) | An Operator for Apache Cassandra built using [KUDO](https://kudo.dev) |
+| Cassandra #1 | [datastax/cass-operator](https://github.com/datastax/cass-operator) | [DataStax Kubernetes Operator for Apache Cassandra&trade; and DataStax Enterprise (DSE).](https://docs.datastax.com/en/cass-operator/doc/cass-operator/cassOperatorTOC.html) |
+| Cassandra #2 | [instaclustr/cassandra-operator](https://github.com/instaclustr/cassandra-operator) | Kubernetes operator for Apache Cassandra. |
+| Cassandra #3 | [vgkowski/cassandra-operator](https://github.com/vgkowski/cassandra-operator) | Kubernetes operator for cassandra clusters automation. |
+| Cassandra #4 | [jetstack/navigator](https://github.com/jetstack/navigator) | Create and scale multi-AZ Casssandra clusters on Kubernetes. |
+| Cassandra #5 | [Orange-OpenSource/cassandra-k8s-operator](https://github.com/Orange-OpenSource/cassandra-k8s-operator) | This Kubernetes operator automates the Cassandra operations such as deploying a new rack aware cluster, adding/removing nodes, configuring the C* and JVM parameters, upgrading JVM and C* versions, and many more...  |
+| Cassandra #6 | [kudobuilder/operators/cassandra](https://github.com/kudobuilder/operators/tree/master/repository/cassandra/3.11) | An Operator for Apache Cassandra built using [KUDO](https://kudo.dev) |
 | Cerebral     | [containership/cerebral](https://github.com/containership/cerebral) | Kubernetes cluster autoscaler operator with pluggable metric/event sources and cloud provider support |
 | cert-manager | [jetstack/cert-manager](https://github.com/jetstack/cert-manager) | Automatically provision and manage TLS certificates in Kubernetes |
 | Che     | [eclipse/che-operator](https://github.com/eclipse/che-operator) | Kubernetes operator for Che, a container based IDE that provides a fast, easy to use, extensible platform for hybrid cloud development teams |
