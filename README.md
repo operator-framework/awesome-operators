@@ -126,6 +126,7 @@ If you want to start building an Operator, you should definitely look into the [
 | RocketMQ #1 | [huanwei/rocketmq-operator](https://github.com/huanwei/rocketmq-operator) | Create, operate and scale self-healing Rocketmq clusters on Kubernetes. |
 | RocketMQ #2 | [apache/rocketmq-operator](https://github.com/apache/rocketmq-operator) | RocketMQ Operator is to manage RocketMQ service instances deployed on Kubernetes. |
 | Rook | [rook/rook](https://github.com/rook/rook/tree/master/cluster/examples/kubernetes) |  File, Block, and Object Storage Services for your Cloud-Native Environment |
+| Secret Backup Operator | [geritol/secret-backup-operator](https://github.com/geritol/secret-backup-operator) | Backs up your Kubernetes Secrets |
 | Secreter | [amaizfinance/secreter](https://github.com/amaizfinance/secreter) | Kubernetes operator and CLI tool for encrypting Kubernetes secrets and declarative secret management. |
 | Service level | [slok/service-level-operator](https://github.com/slok/service-level-operator) | Manage application's SLI and SLO's easily with the application lifecycle inside a Kubernetes cluster. |
 | Shell | [flant/shell-operator](https://github.com/flant/shell-operator) | Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster. |
