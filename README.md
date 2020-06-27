@@ -129,6 +129,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Secreter | [amaizfinance/secreter](https://github.com/amaizfinance/secreter) | Kubernetes operator and CLI tool for encrypting Kubernetes secrets and declarative secret management. |
 | Service level | [slok/service-level-operator](https://github.com/slok/service-level-operator) | Manage application's SLI and SLO's easily with the application lifecycle inside a Kubernetes cluster. |
 | Shell | [flant/shell-operator](https://github.com/flant/shell-operator) | Shell-operator is a tool for running event-driven scripts in a Kubernetes cluster. |
+| SOPS Operator | [craftypath/sops-operator](https://github.com/craftypath/sops-operator) | A Kubernetes operator for [Mozilla SOPS](https://github.com/mozilla/sops). |
 | Spark #1 | [GoogleCloudPlatform/spark-on-k8s-operator](https://github.com/GoogleCloudPlatform/spark-on-k8s-operator) | Kubernetes CRD operator for specifying and running Apache Spark applications idiomatically on Kubernetes. |
 | Spark #2 | [jvm-operators/spark-operator](https://github.com/jvm-operators/spark-operator) | ConfigMap-based operator for deploying ephemeral Apache Spark clusters and intelligent applications that spawn their own Spark clusters natively on Kubernetes and OpenShift. |
 | Spark #3 | [mesosphere/kudo-spark-operator](https://github.com/mesosphere/kudo-spark-operator) | An Operator for Apache Spark built using [KUDO](https://kudo.dev) |
