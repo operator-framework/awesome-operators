@@ -78,7 +78,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Konfigurator | [stakater/konfigurator](https://github.com/stakater/konfigurator) | Dynamically generates and manages app configuration based on kubernetes resources |
 | Kong | [upmc-enterprises/kong-operator](https://github.com/upmc-enterprises/kong-operator) | Manages Kong clusters on Kubernetes (no longer actively maintained)|
 | Kopf | [kopf/operator](https://github.com/zalando-incubator/kopf) | A Python framework to write Kubernetes operators in just few lines of code.  |
-| KubeDB | [kubedb/operator](https://github.com/kubedb/operator) | KubeDB Operator |
+| KubeDB | [kubedb/operator](https://github.com/kubedb/operator) | KubeDB provides you with many familiar database engines to choose from, including PostgreSQL, MySQL, MongoDB, Elasticsearch, Redis, Memcached, and Percona XtraDB |
 | KubeVirt | [kubevirt/kubevirt](https://github.com/kubevirt/kubevirt) | Kubernetes Virtualization Operator with API and runtime in order to define and manage virtual machines. |
 | KUDO | [kudobuilder/kudo](https://github.com/kudobuilder/kudo) | The Kubernetes Universal Declarative Operator, a toolkit for building Kubernetes Operators declaratively using YAML. |
 | Logging Operator | [banzaicloud/logging-operator](https://github.com/banzaicloud/logging-operator) | Logging operator for Kubernetes based on Fluentd and Fluent-bit. |
