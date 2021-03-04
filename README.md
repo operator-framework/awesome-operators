@@ -74,6 +74,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Istio Operator | [banzaicloud/istio-operator](https://github.com/banzaicloud/istio-operator) | An operator that manages Istio deployments on Kubernetes. |
 | Jaeger | [jaegertracing/jaeger-operator](https://github.com/jaegertracing/jaeger-operator) | Jaeger Operator for Kubernetes. |
 | Jenkins | [jenkinsci/jenkins-operator](https://github.com/jenkinsci/kubernetes-operator) | Kubernetes native Jenkins operator. |
+| k8gb | [absaoss/k8gb](https://github.com/absaoss/k8gb) | A cloud native Kubernetes Global Balancer. |
 | Kafka #1 | [krallistic/kafka-operator](https://github.com/krallistic/kafka-operator) | A Kafka Operator for Kubernetes |
 | Kafka #2 | [strimzi/strimzi](https://github.com/strimzi/strimzi)| Operator for running Kafka and Kafka Connect on Kubernetes and OpenShift |
 | Kafka #3 | [banzaicloud/kafka-operator](https://github.com/banzaicloud/kafka-operator) | An operator that manages Kafka on Kubernetes. |
