@@ -88,8 +88,9 @@ If you want to start building an Operator, you should definitely look into the [
 | Mailgun | [whyseco/mailgun-operator](https://github.com/whyseco/mailgun-operator) | Mailgun operator to deploy mailgun configuration through a kubernetes controller. |
 | Memcached | [ianlewis/memcached-operator](https://github.com/ianlewis/memcached-operator) | A Kubernetes operator for memcached |
 | MongoDB #1 (Official) | [mongodb/mongodb-enterprise-kubernetes](https://github.com/mongodb/mongodb-enterprise-kubernetes) | MongoDB Enterprise Operator for Kubernetes |
-| MongoDB #2| [kbst/mongodb](https://github.com/kbst/mongodb) | MongoDB Operator for Kubernetes |
-| MongoDB #3|[Ultimaker/k8s-mongo-operator](https://github.com/Ultimaker/k8s-mongo-operator) | MongoDB Operator for MongoDB Replica Sets and Backups |
+| MongoDB #2 (Official) | [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) | MongoDB Community Operator for Kubernetes |
+| MongoDB #3 | [kbst/mongodb](https://github.com/kbst/mongodb) | MongoDB Operator for Kubernetes |
+| MongoDB #4 |[Ultimaker/k8s-mongo-operator](https://github.com/Ultimaker/k8s-mongo-operator) | MongoDB Operator for MongoDB Replica Sets and Backups |
 | MXNet | [deepinsight/mxnet-operator](https://github.com/deepinsight/mxnet-operator ) | Tools for ML/MXNet on Kubernetes. |
 | MySQL #1 | [grtl/mysql-operator](https://github.com/grtl/mysql-operator) | This operator creates a Kubernetes Custom Resource for MySQL. |
 | MySQL #2 | [oracle/mysql-operator](https://github.com/oracle/mysql-operator) | This operator creates, operates, and scales self-healing MySQL clusters in Kubernetes |
