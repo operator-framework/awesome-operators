@@ -58,6 +58,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Fortio-operator | [verfio/fortio-operator](https://github.com/verfio/fortio-operator) | Load Testing Operator within the Kubernetes cluster and outside of it. |
 | Galera Operator | [Orange-OpenSource/galera-operator](https://github.com/Orange-OpenSource/galera-operator) | Galera Operator makes it easy to manage highly-available galera clusters deployed to Kubernetes and automates tasks related to operating a galera cluster. |
 | GateKeeper | [replicatedhq/gatekeeper](https://github.com/replicatedhq/gatekeeper) | Manages dynamic Admission Controllers using Open Policy Agent. |
+| Ghost Operator | [hijak/ghost-operator](https://github.com/hijak/ghost-operator) | Installs a [Ghost Blog](https://ghost.org/) instance |
 | Gitea | [integr8ly/gitea-operator](https://github.com/integr8ly/gitea-operator) | An Operator that installs [Gitea](https://gitea.io/en-us/) and, optionally on OpenShift, an [oauth proxy](https://github.com/openshift/oauth-proxy) |
 | GitLab | [gitlab-operator](https://gitlab.com/gitlab-org/charts/components/gitlab-operator/) | supports online upgrades |
 | Google Cloud Operator | [paulczar/gcp-cloud-compute-operator](https://github.com/paulczar/gcp-cloud-compute-operator) | Allows the provisioning of Google Cloud resources such as Instances and Images using Kubernetes |
