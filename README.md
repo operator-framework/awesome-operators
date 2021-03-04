@@ -118,7 +118,8 @@ If you want to start building an Operator, you should definitely look into the [
 | Qdr | [interconnectedcloud/qdr-operator](https://github.com/interconnectedcloud/qdr-operator)| Operator for running Apache Qpid Dispatch Router (AMQP 1.0) on Kubernetes and OpenShift |
 | Quobyte | [Quobyte/Quobyte](https://github.com/quobyte/kubernetes/tree/master/operator) |  [Quobyte’s](https://www.quobyte.com) next-generation file system unifies file, block and object storage for enterprise and scientific applications. |
 | RBAC Manager | [reactiveops/rbac-manager](https://github.com/reactiveops/rbac-manager) | This operator simplifies the management of RBAC Role Bindings in Kubernetes. |
-| RabbitMQ | [skylt/rabbitmq-operator](https://github.com/skylt/rabbitmq-operator) | RabbitMQ operator for Kubernetes. |
+| RabbitMQ #1 (Official) | [rabbitmq/cluster-operator](https://github.com/rabbitmq/cluster-operator) | RabbitMQ cluster operator for Kubernetes. |
+| RabbitMQ #2 | [skylt/rabbitmq-operator](https://github.com/skylt/rabbitmq-operator) | RabbitMQ operator for Kubernetes. |
 | RDS |  [MYOB-Technology/ops-kube-db-operator](https://github.com/MYOB-Technology/ops-kube-db-operator) | Operator to control RDS DBs in AWS. |
 | Redis #1 | [spotahome/redis-operator](https://github.com/spotahome/redis-operator) | Redis Operator creates/configures/manages redis clusters atop Kubernetes. |
 | Redis #2 | [jw-s/redis-operator](https://github.com/jw-s/redis-operator) | Redis operator for Kubernetes |
