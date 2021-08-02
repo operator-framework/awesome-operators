@@ -67,7 +67,8 @@ If you want to start building an Operator, you should definitely look into the [
 | GateKeeper | [replicatedhq/gatekeeper](https://github.com/replicatedhq/gatekeeper) | Manages dynamic Admission Controllers using Open Policy Agent. |
 | Ghost Operator | [hijak/ghost-operator](https://github.com/hijak/ghost-operator) | Installs a [Ghost Blog](https://ghost.org/) instance |
 | Gitea | [integr8ly/gitea-operator](https://github.com/integr8ly/gitea-operator) | An Operator that installs [Gitea](https://gitea.io/en-us/) and, optionally on OpenShift, an [oauth proxy](https://github.com/openshift/oauth-proxy) |
-| GitLab | [gitlab-operator](https://gitlab.com/gitlab-org/charts/components/gitlab-operator/) | supports online upgrades |
+| GitLab | [gitlab-operator](https://gitlab.com/gitlab-org/charts/components/gitlab-operator/) | Supports online upgrades |
+| GitLab Kubernetes Agent | [gitlab-kubernetes-agent](https://docs.gitlab.com/ee/user/clusters/agent/) | The recommended way to connect a Kubernetes cluster to GitLab for pull and push based deployments, integrated monitoring and security. |
 | Google Cloud Operator | [paulczar/gcp-cloud-compute-operator](https://github.com/paulczar/gcp-cloud-compute-operator) | Allows the provisioning of Google Cloud resources such as Instances and Images using Kubernetes |
 | Grafana | [integr8ly/grafana-operator](https://github.com/integr8ly/grafana-operator) | A Kubernetes Operator for creating and managing Grafana instances. |
 | Habitat | [habitat-sh/habitat-operator](https://github.com/habitat-sh/habitat-operator) | A Kubernetes operator for Habitat services. |
