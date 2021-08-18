@@ -98,6 +98,7 @@ If you want to start building an Operator, you should definitely look into the [
 | Moodle | [krestomatio/m4e-operator](https://github.com/krestomatio/m4e-operator) | Moodle Operator for Kubernetes & Openshift. It is based on Ansible Operator SDK. |
 | Mailgun | [whyseco/mailgun-operator](https://github.com/whyseco/mailgun-operator) | Mailgun operator to deploy mailgun configuration through a kubernetes controller. |
 | Memcached | [ianlewis/memcached-operator](https://github.com/ianlewis/memcached-operator) | A Kubernetes operator for memcached |
+| MinIO | [minio/operator](https://github.com/minio/operator) | Operator for MinIO which is a Kubernetes-native object store with an S3-compatible API. |
 | MongoDB #1 (Official) | [mongodb/mongodb-enterprise-kubernetes](https://github.com/mongodb/mongodb-enterprise-kubernetes) | MongoDB Enterprise Operator for Kubernetes |
 | MongoDB #2 (Official) | [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) | MongoDB Community Operator for Kubernetes |
 | MongoDB #3 | [kbst/mongodb](https://github.com/kbst/mongodb) | MongoDB Operator for Kubernetes |
